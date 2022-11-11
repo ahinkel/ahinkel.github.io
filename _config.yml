@@ -1,5 +1,6 @@
 theme: jekyll-theme-minimal
 title: Austin Hinkel, Ph.D.
+name: &name "Your Name"
 description: Astrophysicist, Data Scientist, and Teacher
 twitter: @iHinkthere4iam
 
