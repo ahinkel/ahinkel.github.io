@@ -1,39 +1,23 @@
-#theme: jekyll-theme-minimal
+theme: jekyll-theme-minimal
 title: Austin Hinkel, Ph.D.
-name: &name "Your Name"
 description: Astrophysicist, Data Scientist, and Teacher
-twitter: @iHinkthere4iam
 
-author:
-  name             : "Austin Hinkel"
-  bio              : "Astrophysicist, Data Scientist, and Teacher"
-  location         : "Colorado Springs, CO"
-  employer         : "Colorado College"
-  googlescholar    : "https://scholar.google.com/citations?user=Act8eHcAAAAJ&hl=en&oi=ao"
-  orcid            : "https://orcid.org/0000-0002-9785-914X"
-  twitter          : "iHinkthere4iam"
+Hello, this is a test.
 
 
-
-
+#author:
+#  name             : "Austin Hinkel"
+#  bio              : "Astrophysicist, Data Scientist, and Teacher"
+#  location         : "Colorado Springs, CO"
+#  employer         : "Colorado College"
+#  googlescholar    : "https://scholar.google.com/citations?user=Act8eHcAAAAJ&hl=en&oi=ao"
+#  orcid            : "https://orcid.org/0000-0002-9785-914X"
+#  twitter          : "iHinkthere4iam"
 
 
 
 
 
 
-# Plugins
-plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jekyll-redirect-from
-  
-# mimic GitHub Pages with --safe
-whitelist:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jemoji
+
+
