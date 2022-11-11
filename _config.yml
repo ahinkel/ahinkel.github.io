@@ -1,3 +1,13 @@
 theme: jekyll-theme-minimal
 title: Austin Hinkel, Ph.D.
 description: Astrophysicist, Data Scientist, and Teacher
+twitter: @iHinkthere4iam
+
+author:
+  name             : "Austin Hinkel"
+  bio              : "Astrophysicist, Data Scientist, and Teacher"
+  location         : "Colorado Springs, CO"
+  employer         : "Colorado College"
+  googlescholar    : "http://yourfullgooglescholarurl.com"
+  orcid            : "http://orcid.org/yourorcidurl"
+  twitter          : "iHinkthere4iam"
