@@ -21,11 +21,14 @@ Here is my [CV](https://ahinkel.github.io/assets/pdfs/AustinHinkel_CV_20220929re
 ## Some Recent Projects:
 
 
+- Data-driven fall risk project.  Details TBA.
 
 
 ## Selected Publications:
 
 
+- "Two-point correlation function studies for the Milky Way: discovery of spatial clustering from disk excitations and substructure", Hinkel, A., Gardner, S., Yanny, B., (2022). Accepted for publication in the Astrophysical Journal. [ArXiv Preprint](https://arxiv.org/abs/2210.13450).
+- "Axial Asymmetry Studies in Gaia Data Release 2 Yield the Pattern Speed of the Galactic Bar", Hinkel, A., Gardner, S., Yanny, B., (2020). [The Astrophysical Journal Letters](https://doi.org/10.3847/2041-8213/aba905).
 
 
 ### This Site is a Work in Progress
