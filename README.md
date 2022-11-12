@@ -10,19 +10,22 @@ Here is my [CV](https://ahinkel.github.io/assets/pdfs/AustinHinkel_CV_20220929re
 
 ## Other Links:
 
+
 - [My Google Scholar Page](https://scholar.google.com/citations?user=Act8eHcAAAAJ&hl=en&oi=ao)
-
 - [My Orcid Page](https://orcid.org/0000-0002-9785-914X)
-
 - [My Twitter](https://twitter.com/iHinkthere4iam)
 
 
 ## Some Recent Projects:
 
+
+-
 -
 
 ## Selected Publications:
 
+
+-
 -
 
 ### This Site is a Work in Progress
