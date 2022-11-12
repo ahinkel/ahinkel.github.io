@@ -17,7 +17,10 @@ Here is my [CV](https://ahinkel.github.io/assets/pdfs/AustinHinkel_CV_20220929re
 [My Twitter](https://twitter.com/iHinkthere4iam)
 
 
+## Some Recent Projects:
 
+
+## Selected Publications:
 
 
 ### This Site is a Work in Progress
