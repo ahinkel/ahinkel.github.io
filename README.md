@@ -1,4 +1,8 @@
-# Austin Hinkel
+# Austin Hinkel, Ph.D.
 
+Hi there.  I
 
-Just parking this here for now.  I'll get around to it eventually.  Maybe.  
+Here is my CV: []()
+
+## Work in Progress
+Mostly just parking this here for now.  I'll get around to it eventually.  Maybe.  
