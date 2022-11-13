@@ -8,7 +8,7 @@ I am currently a Visiting Assistant Professor at Colorado College studying Galac
 
 ## Curriculum Vitae:
 
-Here is my full [CV](https://ahinkel.github.io/assets/pdfs/AustinHinkel_CV_20220929redact.pdf).
+Here is my full [CV](https://ahinkel.github.io/assets/pdfs/AustinHinkel_CV-9.pdf).
 
 
 
