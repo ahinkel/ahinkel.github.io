@@ -27,6 +27,7 @@ Here is my full [CV](https://ahinkel.github.io/assets/pdfs/AustinHinkel_CV_20220
 
 
 - Data-driven fall risk project.  Details TBA.
+- [A Two-point Correlation Function Study of the Milky Way](/projects/MilkyWay_2PCF)
 - New Galactic Archaeology and data mining tools.  Details TBA.
 - Energy Efficiency project.  Details TBA.
 
@@ -61,10 +62,6 @@ Here is my full [CV](https://ahinkel.github.io/assets/pdfs/AustinHinkel_CV_20220
 - Kentucky Governor's Scholar, '11
 
 
-
-## Testing stuff here.
-
-[Test Page](/testpage)
 
 
 
