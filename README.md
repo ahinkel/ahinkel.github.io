@@ -64,7 +64,7 @@ Here is my full [CV](https://ahinkel.github.io/assets/pdfs/AustinHinkel_CV_20220
 
 ## Testing stuff here.
 
-[Test Page](ahinkel.github.io/testpage)
+[Test Page](/testpage)
 
 
 
