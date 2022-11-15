@@ -26,8 +26,8 @@ Here is my full [CV](https://ahinkel.github.io/assets/pdfs/AustinHinkel_CV-9.pdf
 ## Some Recent Projects:
 
 
-- Data-driven fall risk project.  Details TBA.
-- [A Two-point Correlation Function Study of the Milky Way](/projects/MilkyWay_2PCF)
+- [Data-driven fall risk project](/projects/DataDrivenFallRisk)  Details TBA.
+- [A Two-point Correlation Function Study of the Milky Way](/projects/MilkyWay_2PCF)  Details TBA.
 - New Galactic Archaeology and data mining tools.  Details TBA.
 - Energy Efficiency project.  Details TBA.
 
