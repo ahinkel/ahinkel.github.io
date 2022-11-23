@@ -1,8 +1,10 @@
 # Austin Hinkel, Ph.D.
 
-Hi there -- I'm Austin Hinkel.  
+Hi there -- my name is Austin Hinkel and this is my personal website.
 
-I am currently a Visiting Assistant Professor at Colorado College studying Galactic Archaeology and Galactic structure.  I love teaching introductory Physics and Astronomy courses, and I am also a huge fan of using data science for social good.  
+I am currently a Visiting Assistant Professor at Colorado College studying Galactic Archaeology and Galactic structure.  I love teaching introductory physics and astronomy courses, and I am also a huge fan of using data science for social good.  
+
+This website acts as an abbreviated CV, but I also plan to write about some of my work in astronomy, astrophysics, and data science. 
 
 
 
@@ -60,11 +62,15 @@ This section is a work in progress.
 
 - American Physical Society 5-sigma Physicist
 - Colorado College Faculty-Student Collaborative Research Grant, '22
-- Universities Research Association Visiting Scholars Program grants, '18-'21
+- Universities Research Association Visiting Scholars Program grants (x3), '18-'21
 - Kentucky Governor's Scholar, '11
 
 
 
 
 
+<!--- Testing comments here.  Here are some key words / tags: 
+Austin Hinkel Ph.D. Astro Astronomy Astrophysics Physics Data Science 
+Scientist Astronomer Astrophysicist Physicist Professor Educator 
+Education Programmer Analysis DoesGoogleEvenSeeTheseQuestionMark --->
 
