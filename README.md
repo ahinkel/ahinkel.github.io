@@ -35,7 +35,7 @@ This section is a work in progress.
 - New Galactic Archaeology and data mining tools.  Details TBA.
 - Energy Efficiency project.  Details TBA.
 
-Click here for older projects. (under construction)
+Click [here](/projects/olderProjects) for older projects. 
 
 
 
