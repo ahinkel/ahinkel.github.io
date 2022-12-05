@@ -25,20 +25,6 @@ Here is my full [CV](https://ahinkel.github.io/assets/pdfs/AustinHinkel_CV-9.pdf
 
 
 
-## Some Recent Projects:
-
-This section is a work in progress.
-
-
-- [Data-driven fall risk project](/projects/DataDrivenFallRisk)  Details TBA.
-- [A Two-point Correlation Function Study of the Milky Way](/projects/MilkyWay_2PCF)  Details TBA.
-- New Galactic Archaeology and data mining tools.  Details TBA.
-- Energy Efficiency project.  Details TBA.
-
-Click [here](/projects/olderProjects) for older projects. (nothing here yet -- stay tuned.)
-
-
-
 ## Selected Publications:
 
 
@@ -67,6 +53,19 @@ Click [here](/projects/olderProjects) for older projects. (nothing here yet -- s
 - Universities Research Association Visiting Scholars Program grants (x3), '18-'21
 - Kentucky Governor's Scholar, '11
 
+
+
+## Some Recent Projects:
+
+This section is a work in progress.
+
+
+- [Data-driven fall risk project](/projects/DataDrivenFallRisk)  Details TBA.
+- [A Two-point Correlation Function Study of the Milky Way](/projects/MilkyWay_2PCF)  Details TBA.
+- New Galactic Archaeology and data mining tools.  Details TBA.
+- Energy Efficiency project.  Details TBA.
+
+Click [here](/projects/olderProjects) for older projects. (nothing here yet -- stay tuned.)
 
 
 
