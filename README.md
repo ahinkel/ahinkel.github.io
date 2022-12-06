@@ -30,8 +30,8 @@ Here is my full [CV](https://ahinkel.github.io/assets/pdfs/AustinHinkel_CV-9.pdf
 
 - "Two-point correlation function studies for the Milky Way: discovery of spatial clustering from disk excitations and substructure", **Austin Hinkel**, Gardner, S., Yanny, B., (2022). Accepted for publication in *The Astrophysical Journal*. [ArXiv Preprint](https://arxiv.org/abs/2210.13450).
 - "Axial Asymmetry Studies in Gaia Data Release 2 Yield the Pattern Speed of the Galactic Bar", **Austin Hinkel**, Gardner, S., Yanny, B., (2020). [*The Astrophysical Journal Letters*](https://doi.org/10.3847/2041-8213/aba905).
-- "Probing Axial Symmetry Breaking in the Galaxy with Gaia Data Release 2", **Austin Hinkel**, Gardner, S., Yanny, B., (2020). [*The Astrophysical Journal*](https://doi.org/10.3847/1538-4357/ab8235)
-- "Applying Noether's Theorem to Matter in the Milky Way: Evidence for External Perturbations and Non-steady-state Effects from Gaia Data Release 2", Gardner, S., **Austin Hinkel**, Yanny, B., (2020). [*The Astrophysical Journal*](https://doi.org/10.3847/1538-4357/ab66c8)
+- "Probing Axial Symmetry Breaking in the Galaxy with Gaia Data Release 2", **Austin Hinkel**, Gardner, S., Yanny, B., (2020). [*The Astrophysical Journal*](https://doi.org/10.3847/1538-4357/ab8235).
+- "Applying Noether's Theorem to Matter in the Milky Way: Evidence for External Perturbations and Non-steady-state Effects from Gaia Data Release 2", Gardner, S., **Austin Hinkel**, Yanny, B., (2020). [*The Astrophysical Journal*](https://doi.org/10.3847/1538-4357/ab66c8).
 
 
 
