@@ -1,3 +1,3 @@
 # Older Projects:
 
-Nothing here, yet.
+Nothing here yet.
