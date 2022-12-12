@@ -10,7 +10,7 @@ This website acts as an abbreviated CV, but I also plan to write about some of m
 
 ## Curriculum Vitae:
 
-Here is my full [CV](https://ahinkel.github.io/assets/pdfs/AustinHinkel_CV-9.pdf) as of Nov. 2022.
+Here is my full [CV](https://ahinkel.github.io/assets/pdfs/AustinHinkel_CV-9.pdf) as of November 2022.
 
 
 
