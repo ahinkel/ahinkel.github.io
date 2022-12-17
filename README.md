@@ -46,6 +46,12 @@ Here is my full [CV](https://ahinkel.github.io/assets/pdfs/AustinHinkel_CV-9.pdf
 - Danish Institute for Study Abroad
 
 
+## Appointments:
+
+
+- Visiting Assistant Professor, Colorado College 2021 - present
+- Graduate Research and Teaching Assistant 2016 - 2021
+
 
 ## Selected Honors, Grants, and Awards:
 
