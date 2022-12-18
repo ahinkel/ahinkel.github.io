@@ -49,8 +49,8 @@ Here is my full [CV](https://ahinkel.github.io/assets/pdfs/AustinHinkel_CV-9.pdf
 ## Appointments:
 
 
-- Visiting Assistant Professor, Colorado College 2021 - present
-- Graduate Research and Teaching Assistant 2016 - 2021
+- Visiting Assistant Professor, Colorado College, 2021 - present
+- Graduate Research and Teaching Assistant, University of Kentucky, 2016 - 2021
 
 
 ## Selected Honors, Grants, and Awards:
