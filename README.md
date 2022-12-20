@@ -4,7 +4,7 @@ Hi there -- my name is Austin Hinkel and this is my personal website.
 
 I am currently a Visiting Assistant Professor at Colorado College studying Galactic Archaeology and Galactic structure.  I love teaching introductory physics and astronomy courses, and I am also a huge fan of using data science for social good.  
 
-This website acts as an abbreviated CV, but I also plan to write about some of my work in astronomy, astrophysics, and data science.  More details on this soon! 
+This website acts as an abbreviated CV, but I also plan to write about some of my work in astronomy, astrophysics, and data science.  More details on this soon(ish)! 
 
 
 
