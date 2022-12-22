@@ -1,6 +1,6 @@
 # Austin Hinkel, Ph.D.
 
-Hi there -- my name is Austin Hinkel and this is my personal website.
+Hi there -- my name is Austin Hinkel and this is my personal website. 
 
 I am currently a Visiting Assistant Professor at Colorado College studying Galactic Archaeology and Galactic structure.  I love teaching introductory physics and astronomy courses, and I am also a huge fan of using data science for social good.  
 
@@ -51,6 +51,7 @@ Here is my full [CV](https://ahinkel.github.io/assets/pdfs/AustinHinkel_CV-9.pdf
 
 - Visiting Assistant Professor, Colorado College, 2021 - present
 - Graduate Research and Teaching Assistant, University of Kentucky, 2016 - 2021
+
 
 
 ## Selected Honors, Grants, and Awards:
