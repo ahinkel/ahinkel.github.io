@@ -57,7 +57,7 @@ Here is my full [CV](https://ahinkel.github.io/assets/pdfs/AustinHinkel_CV-9.pdf
 ## Selected Honors, Grants, and Awards:
 
 
-- TBA award '22
+- TBA award '22/'23
 - American Physical Society 5-sigma Physicist
 - Colorado College Faculty-Student Collaborative Research Grant, '22
 - Universities Research Association Visiting Scholars Program grants (x3), '18-'21
