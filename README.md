@@ -67,7 +67,7 @@ Here is my full [CV](https://ahinkel.github.io/assets/pdfs/AustinHinkel_CV-9.pdf
 
 ## Some Recent Projects:
 
-This section is a work in progress.
+This section is a work in progress. 
 
 
 - [A Two-point Correlation Function Study of the Milky Way](/projects/MilkyWay_2PCF).  Details TBA.
