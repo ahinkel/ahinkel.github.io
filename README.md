@@ -49,6 +49,7 @@ Here is my full [CV](https://ahinkel.github.io/assets/pdfs/AustinHinkel_CV-9.pdf
 ## Appointments:
 
 
+- Soon: Assistant Professor, Thomas More University
 - Visiting Assistant Professor, Colorado College, 2021 - present
 - Graduate Research and Teaching Assistant, University of Kentucky, 2016 - 2021
 
