@@ -43,7 +43,7 @@ Here is my full [CV](https://ahinkel.github.io/assets/pdfs/AustinHinkel_CV-9.pdf
 - Ph.D., Physics (2021) University of Kentucky
 - M.S., Physics (2018) University of Kentucky
 - B.S., Physics w/ Honors, Minor in Mathematics, summa cum laude (2016) University of Kentucky
-- Danish Institute for Study Abroad
+- Danish Institute for Study Abroad (2015)
 
 
 ## Appointments:
