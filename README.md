@@ -23,6 +23,7 @@ Here is my full [CV](https://ahinkel.github.io/assets/pdfs/AustinHinkel_CV-9.pdf
 - [Twitter](https://twitter.com/iHinkthere4iam)
 - [LinkedIn](https://www.linkedin.com/in/austin-hinkel/)
 - [Kaggle](https://www.kaggle.com/austinhinkel)
+- [DSSG Solve](https://solveforgood.org/user/8457)
 - [ArXiv](https://arxiv.org/search/?query=Hinkel%2C+Austin&searchtype=author&abstracts=show&order=-announced_date_first&size=50)
 
 
