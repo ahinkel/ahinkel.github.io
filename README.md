@@ -75,6 +75,7 @@ This section is a work in progress.
 
 - [A Two-point Correlation Function Study of the Milky Way](/projects/MilkyWay_2PCF).  Details TBA.
 - [Data-driven fall risk project](/projects/DataDrivenFallRisk).  Details TBA.
+- Kaggle Competition.  Details TBA.
 - New Galactic Archaeology and data mining tools.  Details TBA.
 - Energy Efficiency project.  Details TBA.
 
