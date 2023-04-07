@@ -84,9 +84,10 @@ Click [here](/projects/olderProjects) for older projects. (Nothing here yet -- s
 
 
 
+
 <!--- Testing comments here.  Here are some key words / tags: 
 Austin Hinkel Ph.D. Astro Astronomy Astrophysics Physics Data Science 
 Scientist Astronomer Astrophysicist Physicist Professor Educator 
-Social Good United Nations UN SDG UNSDGs UNSDG big data 
-Education Programmer Analysis DoesGoogleEvenSeeTheseQuestionMark --->
+Social Good United Nations UN SDG UNSDGs UNSDG big data machine learning
+AI Education Programmer Analysis DoesGoogleEvenSeeTheseQuestionMark --->
 
