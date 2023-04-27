@@ -89,5 +89,6 @@ Click [here](/projects/olderProjects) for older projects. (Nothing here yet -- s
 Austin Hinkel Ph.D. Astro Astronomy Astrophysics Physics Data Science 
 Scientist Astronomer Astrophysicist Physicist Professor Educator 
 Social Good United Nations UN SDG UNSDGs UNSDG big data machine learning
+ML feature engineering ahinkel austinhinkel Kaggle DSSG Solve words
 AI Education Programmer Analysis DoesGoogleEvenSeeTheseQuestionMark --->
 
