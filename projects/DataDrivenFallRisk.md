@@ -2,4 +2,4 @@
 
 TBA
 
-For now, please see: https://www.abstractsonline.com/pp8/#!/10799/presentation/3779
+For now, please see [this abstract.](https://www.abstractsonline.com/pp8/#!/10799/presentation/3779)
