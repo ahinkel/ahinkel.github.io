@@ -7,6 +7,8 @@ I am currently a Visiting Assistant Professor at Colorado College studying Galac
 This website acts as an abbreviated CV, but I also plan to write about some of my work in astronomy, astrophysics, and data science.  More details on this soon(ish)! 
 
 
+<!--- If you are one of my former students at Colorado College looking for a letter of recommendation, please feel free to reach out to me at my new institutional email address.  Faculty in the Colorado College physics department will be able to share my new email address. --->
+
 
 ## Curriculum Vitae:
 
