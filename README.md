@@ -19,7 +19,6 @@ Here is my full [CV](https://ahinkel.github.io/assets/pdfs/AustinHinkel_CV-9.pdf
 ## Other Places to Find Me:
 
 
-- [Colorado College](https://www.coloradocollege.edu/basics/contact/directory/people/hinkel_austin.html)
 - [Google Scholar Profile](https://scholar.google.com/citations?user=Act8eHcAAAAJ&hl=en&oi=ao)
 - [My Orcid Page](https://orcid.org/0000-0002-9785-914X)
 - [Twitter](https://twitter.com/iHinkthere4iam)
