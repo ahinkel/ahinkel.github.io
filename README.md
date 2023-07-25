@@ -2,17 +2,16 @@
 
 Hi there -- my name is Austin Hinkel and this is my personal website. 
 
-I am currently a Visiting Assistant Professor at Colorado College studying Galactic Archaeology and Galactic structure.  I love teaching introductory physics and astronomy courses, and I am also a huge fan of using data science for social good.  If you're interested in collaborating on a project that helps to meet a United Nations Sustainable Development Goal, let me know!
+I am an Assistant Professor at Thomas More University studying Galactic Archaeology and Galactic Structure.  I love teaching introductory physics and astronomy courses, and I am also a huge fan of using data science for social good.  If you're interested in collaborating on a project that helps to meet a United Nations Sustainable Development Goal, let me know!
 
 This website acts as an abbreviated CV, but I also plan to write about some of my work in astronomy, astrophysics, and data science.  More details on this soon(ish)! 
 
-
-<!--- If you are one of my former students at Colorado College looking for a letter of recommendation, please feel free to reach out to me at my new institutional email address.  Faculty in the Colorado College physics department will be able to share my new email address. --->
+If you are one of my former students at Colorado College looking for a letter of recommendation, please do not hesitate to reach out to me at my new institutional email address: (my lastname)(my first name initial)(at)(thomasmore.edu).  Faculty in the Colorado College physics department will also be able to share my new email address. 
 
 
 ## Curriculum Vitae:
 
-Here is my full [CV](https://ahinkel.github.io/assets/pdfs/AustinHinkel_CV-9.pdf) as of November 2022. (I need to update this...)
+Here is my full [CV](https://ahinkel.github.io/assets/pdfs/AustinHinkel_CV-9.pdf) as of November 2022. (I really need to update this...)
 
 
 
