@@ -19,6 +19,7 @@ Here is my full [CV](https://ahinkel.github.io/assets/pdfs/AustinHinkel_CV-9.pdf
 ## Other Places to Find Me:
 
 
+- [Thomas More University](https://itwin.thomasmore.edu/WebApps/EmployeeDirectory/Home/EmpDetails/734)
 - [Google Scholar Profile](https://scholar.google.com/citations?user=Act8eHcAAAAJ&hl=en&oi=ao)
 - [My Orcid Page](https://orcid.org/0000-0002-9785-914X)
 - [Twitter/X](https://twitter.com/iHinkthere4iam)
