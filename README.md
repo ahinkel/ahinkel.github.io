@@ -63,6 +63,7 @@ Here is my full [CV](https://ahinkel.github.io/assets/pdfs/AustinHinkel_CV-9.pdf
 
 
 - Colorado College Dean of the Faculty Teaching Award '22-'23 AY
+- Kentucky Space Grant / NASA EPSCoR grant '23-'24 AY
 - American Physical Society 5-sigma Physicist
 - Colorado College Faculty-Student Collaborative Research Grant, '22
 - Universities Research Association Visiting Scholars Program grants (x3), '18-'21
