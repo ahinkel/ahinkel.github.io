@@ -12,7 +12,7 @@ If you are one of my former students at Colorado College looking for a letter of
 
 ## Curriculum Vitae:
 
-Here is my full [CV](https://ahinkel.github.io/assets/pdfs/AustinHinkel_CV (5).pdf) as of November 2022. (I really need to update this...)
+Here is my full [CV](https://ahinkel.github.io/assets/pdfs/AustinHinkel_CV_5.pdf) as of December 2023. 
 
 
 
