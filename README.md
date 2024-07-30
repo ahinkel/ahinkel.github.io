@@ -54,6 +54,7 @@ Here is my full [CV](https://ahinkel.github.io/assets/pdfs/AustinHinkel_CV_5.pdf
 
 
 - Assistant Professor, Thomas More University, 2023 - present
+- Director, Thomas More Observatory, 2024 - present
 - Visiting Assistant Professor, Colorado College, 2021 - 2023
 - Graduate Research and Teaching Assistant, University of Kentucky, 2016 - 2021
 
@@ -63,6 +64,7 @@ Here is my full [CV](https://ahinkel.github.io/assets/pdfs/AustinHinkel_CV_5.pdf
 
 
 - Colorado College Dean of the Faculty Teaching Award '22-'23 AY
+- Kentucky Space Grant / NASA EPSCoR grant '24-'25 AY
 - Kentucky Space Grant / NASA EPSCoR grant '23-'24 AY
 - American Physical Society 5-sigma Physicist
 - Colorado College Faculty-Student Collaborative Research Grant, '22
