@@ -78,6 +78,7 @@ Here is my full [CV](https://ahinkel.github.io/assets/pdfs/AustinHinkel_CV_5.pdf
 This section is a work in progress. 
 
 
+- [Data Visualizations for Inflation Reduction Act Funding and Schools](./). Details TBA
 - [A Two-point Correlation Function Study of the Milky Way](/projects/MilkyWay_2PCF).  Details TBA.
 - [Data-driven fall risk project](/projects/DataDrivenFallRisk).  Details TBA.
 - [Parkinson's Disease Freezing of Gait Kaggle Competition](/projects/KaggleParkinsonsML).  Details TBA.
