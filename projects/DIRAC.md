@@ -63,3 +63,7 @@ These estimates are intended to be a starting point only and are not tax advice.
 
 
 NB: html and js are not languages I am all that familiar with.  Very open to help cleaning up this search tool. Please get in touch.
+
+
+### For comments on the acronym:
+Please see [here.](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
