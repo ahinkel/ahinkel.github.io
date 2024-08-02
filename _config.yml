@@ -1,4 +1,5 @@
 theme: jekyll-theme-minimal
+layout: single
 title: Austin Hinkel
 description: Astrophysicist, Data Scientist, UNSDG geek, and Educator
 logo: /assets/img/hikingPicArch_smaller.jpg
