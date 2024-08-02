@@ -3,6 +3,8 @@
 
 The following search tool (scroll down) uses data derived from the DoE, IPEDS, and NREL to estimate return on investment for solar arrays on college campuses.  Comparisons are drawn to typical endowments, allowing schools to see the financial benefit of investing in on-campus solar.  The following assumes the array is under 1 MegaWatt in size.
 
+PLEASE NOTE: This tool is in beta testing. Other Energy Communities exist that are not taken into account just yet.  Please see the [official website](https://energycommunities.gov/energy-community-tax-credit-bonus/) for more information.
+
 
 ### Data Provenance:
 - College and University data comes from IPEDS, the Integrated Postsecondary Education Data System. In particular, school locations are from [Directory information, institutional characteristics, 2022](https://nces.ed.gov/ipeds/datacenter/DataFiles.aspx?gotoReportId=7&fromIpeds=true&sid=d96aa052-e8ea-42e0-bf18-91165500f959&rtid=7).
