@@ -1,4 +1,4 @@
-# DIRAC:  Direct pay incentives from the Inflation Reduction Act for Colleges
+# DIRAC:  <ins>D</ins>irect pay incentives from the Inflation Reduction Act for Colleges
 
 
 The following search tool (scroll down) uses data derived from the DoE, IPEDS, and NREL to estimate return on investment for solar arrays on college campuses.  Comparisons are drawn to typical endowments, allowing schools to see the financial benefit of investing in on-campus solar.  The following assumes the array is under 1 MegaWatt in size.
