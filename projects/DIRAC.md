@@ -14,7 +14,7 @@ The following search tool (scroll down) uses data derived from the DoE, IPEDS, a
 - Estimate return rate on investment assuming $2.00/installed Watt of DC solar, 0.2 panel efficiency, 0.8 system efficiency, 12 cents/kWh, the tax credit for the institution as estimated from DoE data, and solar resource given by NREL data.
 
 These estimates are intended to be a starting point only and are not tax advice.  The data is limited by what is contained in IPEDS, NREL, and DoE data.  Further incentives can be leveraged as well, including:
-- US-made materials = Additional 10%
+- US-made materials = additional 10%
 - Low-inclome community or Native American land = additional 10%
 - Low-income community benefit project = additional 10%
 
