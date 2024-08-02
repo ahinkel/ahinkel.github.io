@@ -4,6 +4,18 @@ title: Austin Hinkel
 description: Astrophysicist, Data Scientist, UNSDG geek, and Educator
 logo: /assets/img/hikingPicArch_smaller.jpg
 google_analytics: G-DHT8P9N8PG
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: false
+      read_time: true
+      comments: true
+      share: true
+      related: true
 
 
 
