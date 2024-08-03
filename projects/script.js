@@ -80,7 +80,7 @@ function calculate() {
     console.log('wattCostElem:', wattCostElem);
     
     // Annual Savings
-    const annualProductionOut = solarResourceElem * 0.8 * 0.2 * 365 * 1.65 * (nameplateCapacityElem / 0.350); // in kWh
+    const annualProductionOut = (solarResourceElem / 1000) * 0.8 * 0.2 * 365 * 1.65 * (nameplateCapacityElem / 0.350); // in kWh
     const annualSavingsOut = annualProductionOut * costElectricityElem;
     const arrayCostOut = nameplateCapacityElem * wattCostElem * 1000;
     const creditAmountOut = arrayCostOut * (creditPercentElem / 100);
