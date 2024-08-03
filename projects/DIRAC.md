@@ -26,7 +26,7 @@ School data was spatially joined with solar resource data to estimate the potent
 - IRA Direct Pay Incentive estimate as a decimal (e.g., 0.30 corresponds to a 30% credit)
 - Yearly Estimated Savings, in US Dollars, approximated from NREL solar resource data. Assumes an 80 kW array.
 - Annual average solar resource data from NREL in Wh/m^2/day for the campus location given in IPEDS
-- Estimate return rate on investment assuming $2.00/installed Watt of DC solar, 0.2 panel efficiency, 0.8 system efficiency, 12 cents/kWh, the tax credit for the institution as estimated from DoE data, and solar resource given by NREL data. (e.g., 0.11 corresponds to 11%)
+- Estimate return rate on investment assuming $2.00/installed Watt of DC solar, 0.2 panel efficiency, 0.8 system efficiency, 12 cents/kWh, the tax credit for the institution as estimated from DoE data, and solar resource given by NREL data. (e.g., 0.11 corresponds to 11%). 
 
 These estimates are intended to be a starting point only and are not tax advice.  The data is limited by what is contained in IPEDS, NREL, and DoE data.  Further incentives can be leveraged as well, including:
 - US-made materials = additional 10%
@@ -70,6 +70,43 @@ These estimates are intended to be a starting point only and are not tax advice.
 
 
 NB: html and js are not languages I am all that familiar with.  Very open to help cleaning up this search tool. Please get in touch.
+
+
+### Calculator:
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Energy Cost Calculator</title>
+    <link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+    <div class="calculator">
+        <h1>Energy Cost Calculator</h1>
+        <form id="calcForm">
+            <div class="input-group">
+                <label for="creditPercent">Credit Percent (%)</label>
+                <input type="number" id="creditPercent" step="0.1" required>
+            </div>
+            <div class="input-group">
+                <label for="solarResource">Annual Avg Solar Resource (kWh/m²)</label>
+                <input type="number" id="solarResource" step="0.01" required>
+            </div>
+            <div class="input-group">
+                <label for="capacity">Nameplate Capacity (kW)</label>
+                <input type="number" id="capacity" step="0.1" required>
+            </div>
+            <div class="input-group">
+                <label for="costElectricity">Cost of Electricity ($/kWh)</label>
+                <input type="number" id="costElectricity" step="0.01" required>
+            </div>
+            <button type="button" onclick="calculate()">Calculate</button>
+        </form>
+        <div id="result"></div>
+    </div>
+    <script src="./script.js"></script>
+</body>
+</html>
 
 
 ### For comments on the acronym:
