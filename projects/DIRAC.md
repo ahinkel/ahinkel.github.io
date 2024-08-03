@@ -11,12 +11,29 @@ PLEASE NOTE: This tool is in beta testing. Other Energy Communities exist that a
 
 
 ### Data Provenance:
-- College and University data comes from IPEDS, the Integrated Postsecondary Education Data System. In particular, school locations are from [Directory information, institutional characteristics, 2022](https://nces.ed.gov/ipeds/datacenter/DataFiles.aspx?gotoReportId=7&fromIpeds=true&sid=d96aa052-e8ea-42e0-bf18-91165500f959&rtid=7).
-- Solar Resource data comes from NREL's [RE Atlas](https://maps.nrel.gov/).
-- Energy Community data comes from the US DoE: [Coal Closure Data 2024](https://edx.netl.doe.gov/dataset/dbed5af6-7cf5-4a1f-89bc-a4c17e46256a/resource/4006c9da-f99c-4731-97b2-633cc1578994) and [MSAs and Non-MSAs and their fossil fuel employment (FFE) and energy community status as of June 7, 2024.](https://edx.netl.doe.gov/dataset/dbed5af6-7cf5-4a1f-89bc-a4c17e46256a/resource/13454403-ef6b-479b-b720-d5e3eaefbb91)
-- State line shape file data: [2018 US state 500k](https://www.census.gov/geographies/mapping-files/time-series/geo/carto-boundary-file.html).
+<html lang="en">
+    <details>
+    
+        <summary>Click to expand or hide text</summary>
+            <ul>
+                <li>College and University data comes from IPEDS, the Integrated Postsecondary Education Data System. In particular, school locations are from [Directory information, institutional characteristics, 2022](https://nces.ed.gov/ipeds/datacenter/DataFiles.aspx?gotoReportId=7&fromIpeds=true&sid=d96aa052-e8ea-42e0-bf18-91165500f959&rtid=7).</li>
+                <li>Solar Resource data comes from NREL's [RE Atlas](https://maps.nrel.gov/).</li>
+                <li>Energy Community data comes from the US DoE: [Coal Closure Data 2024](https://edx.netl.doe.gov/dataset/dbed5af6-7cf5-4a1f-89bc-a4c17e46256a/resource/4006c9da-f99c-4731-97b2-633cc1578994) and [MSAs and Non-MSAs and their fossil fuel employment (FFE) and energy community status as of June 7, 2024.](https://edx.netl.doe.gov/dataset/dbed5af6-7cf5-4a1f-89bc-a4c17e46256a/resource/13454403-ef6b-479b-b720-d5e3eaefbb91)</li>
+                <li>State line shape file data: [2018 US state 500k](https://www.census.gov/geographies/mapping-files/time-series/geo/carto-boundary-file.html).</li>
+            </ul>
+    
+            School data was spatially joined with solar resource data to estimate the potential for solar power on each campus.  The resulting data was then spatially joined with the DoE's energy community data to inform the tax credit available to each institution. Brownfield data is not included.
+    
+    </details>
+</html>
 
-School data was spatially joined with solar resource data to estimate the potential for solar power on each campus.  The resulting data was then spatially joined with the DoE's energy community data to inform the tax credit available to each institution. Brownfield data is not included.
+
+
+<html lang="en">
+    <body>
+        <hr width="100%" size="2">
+    </body>
+</html>
 
 
 ### Columns returned include:
@@ -26,7 +43,7 @@ School data was spatially joined with solar resource data to estimate the potent
 - IRA Direct Pay Incentive estimate as a decimal (e.g., 0.30 corresponds to a 30% credit)
 - Yearly Estimated Savings, in US Dollars, approximated from NREL solar resource data. Assumes an 80 kW array.
 - Average daily solar resource data from NREL in Wh/m^2/day for the campus location given in IPEDS. Averaged over a year.
-- Estimate return rate on investment assuming $2.00/installed Watt of DC solar, 0.2 panel efficiency, 0.8 system efficiency, 12 cents/kWh, the tax credit for the institution as estimated from DoE data, and solar resource given by NREL data. (e.g., 0.11 corresponds to 11%). 
+- Estimate return rate on investment assuming $2.00/installed Watt of DC solar, 0.2 panel efficiency, 0.8 system efficiency, 12 cents/kWh, the tax credit for the institution as estimated from DoE data, and solar resource given by NREL data. (e.g., 0.11 corresponds to 11%). You can customize your calculations in the calculator below the search tool.
 
 These estimates are intended to be a starting point only and are not tax advice.  The data is limited by what is contained in IPEDS, NREL, and DoE data.  Further incentives can be leveraged as well, including:
 - US-made materials = additional 10%
@@ -34,7 +51,11 @@ These estimates are intended to be a starting point only and are not tax advice.
 - Low-income community benefit project = additional 10%
 - Brownfield (EPA) status = additional 10% if not already satisfying Energy Community credit.
 
-
+<html lang="en">
+    <body>
+        <hr width="100%" size="2">
+    </body>
+</html>
 
 
 ### Search:
@@ -72,6 +93,11 @@ These estimates are intended to be a starting point only and are not tax advice.
 </html>
 
 
+<html lang="en">
+    <body>
+        <hr width="100%" size="2">
+    </body>
+</html>
 
 
 ### Calculator:
