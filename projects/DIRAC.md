@@ -1,3 +1,7 @@
+---
+layout: page
+---
+
 # DIRAC:  <ins>D</ins>irect pay incentives from the <ins>I</ins>nflation <ins>R</ins>eduction <ins>A</ins>ct for <ins>C</ins>olleges
 
 
