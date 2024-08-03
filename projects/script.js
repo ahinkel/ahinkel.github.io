@@ -80,14 +80,17 @@ function calculate() {
     console.log('wattCostElem:', wattCostElem);
     
     // Annual Savings
-    const annualProduction = solarResourceElem * 0.8 * 0.2 * 365 * (1.65 * nameplateCapacityElem / ( 0.350 )); // in kWh
-    const annualSavings = annualProduction * costElectricityElem;
-    const arrayCost = nameplateCapacityElem * wattCostElem * 1000;
-    const creditAmount = arrayCost * (creditPercentElem / 100);
-    const netArrayCost = arrayCost - creditAmount;
+    const annualProductionOut = solarResourceElem * 0.8 * 0.2 * 365 * (1.65 * nameplateCapacityElem / 0.350 ); // in kWh
+    const annualSavingsOut = annualProductionOut * costElectricityElem;
+    const arrayCostOut = nameplateCapacityElem * wattCostElem * 1000;
+    const creditAmountOut = arrayCostOut * (creditPercentElem / 100);
+    const netArrayCostOut = arrayCostOut - creditAmountOut;
 
     // Display the result
-    document.getElementById('result').textContent = `Estimated Annual Savings: $${annualSavings.toFixed(2)}`;
+    document.getElementById('result1').textContent = `Estimated Annual Savings: $${annualSavingsOut.toFixed(2)}`;
+    document.getElementById('result2').textContent = `Estimated Cost of Array: $${arrayCostOut.toFixed(2)}`;
+    document.getElementById('result3').textContent = `Estimated Credit: $${creditAmountOut.toFixed(2)}`;
+    document.getElementById('result4').textContent = `Estimated Net Cost: $${netArrayCostOut.toFixed(2)}`;
 }
 
 
