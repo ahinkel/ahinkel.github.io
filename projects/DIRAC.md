@@ -34,6 +34,52 @@ These estimates are intended to be a starting point only and are not tax advice.
 - Low-income community benefit project = additional 10%
 - Brownfield (EPA) status = additional 10% if not already satisfying Energy Community credit.
 
+
+### Calculator:
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Solar Cost Calculator</title>
+    <!-- <link rel="stylesheet" href="./styles.css"> -->
+</head>
+<body>
+    <div class="calculator">
+        <form id="calcForm">
+            <div class="input-group">
+                <label for="creditPercent">Credit Percent (0-70%)</label>
+                <input type="number" id="creditPercent" step="0.1" required>
+            </div>
+            <div class="input-group">
+                <label for="solarResource">Avg Daily Solar Resource (Wh/m²/day), from table below</label>
+                <input type="number" id="solarResource" step="0.01" required>
+            </div>
+            <div class="input-group">
+                <label for="nameplateCapacity">Nameplate Capacity (kiloWatts)</label>
+                <input type="number" id="nameplateCapacity" step="0.1" required>
+            </div>
+            <div class="input-group">
+                <label for="costElectricity">Cost of Electricity ($/kWh)</label>
+                <input type="number" id="costElectricity" step="0.01" required>
+            </div>
+            <div class="input-group">
+                <label for="wattCost">Cost of Solar Panels ($/W)</label>
+                <input type="number" id="wattCost" step="0.01" required>
+            </div>
+            <button type="button" onclick="calculate()">Calculate</button>
+        </form>
+        <div id="result1"></div>
+        <div id="result2"></div>
+        <div id="result3"></div>
+        <div id="result4"></div>
+        <div id="result5"></div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
+
+
+
 ### Search:
 <html lang="en">
 <head>
@@ -72,48 +118,6 @@ These estimates are intended to be a starting point only and are not tax advice.
 NB: html and js are not languages I am all that familiar with.  Very open to help cleaning up this search tool. Please get in touch.
 
 
-### Calculator:
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Solar Cost Calculator</title>
-    <!-- <link rel="stylesheet" href="./styles.css"> -->
-</head>
-<body>
-    <div class="calculator">
-        <form id="calcForm">
-            <div class="input-group">
-                <label for="creditPercent">Credit Percent (0-70%)</label>
-                <input type="number" id="creditPercent" step="0.1" required>
-            </div>
-            <div class="input-group">
-                <label for="solarResource">Avg Daily Solar Resource (Wh/m²/day), from table</label>
-                <input type="number" id="solarResource" step="0.01" required>
-            </div>
-            <div class="input-group">
-                <label for="nameplateCapacity">Nameplate Capacity (kiloWatts)</label>
-                <input type="number" id="nameplateCapacity" step="0.1" required>
-            </div>
-            <div class="input-group">
-                <label for="costElectricity">Cost of Electricity ($/kWh)</label>
-                <input type="number" id="costElectricity" step="0.01" required>
-            </div>
-            <div class="input-group">
-                <label for="wattCost">Cost of Solar Panels ($/W)</label>
-                <input type="number" id="wattCost" step="0.01" required>
-            </div>
-            <button type="button" onclick="calculate()">Calculate</button>
-        </form>
-        <div id="result1"></div>
-        <div id="result2"></div>
-        <div id="result3"></div>
-        <div id="result4"></div>
-        <div id="result5"></div>
-    </div>
-    <script src="script.js"></script>
-</body>
-</html>
 
 
 ### For comments on the acronym:
