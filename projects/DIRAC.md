@@ -108,7 +108,7 @@ NB: html and js are not languages I am all that familiar with.  Very open to hel
         </form>
         <div id="result"></div>
     </div>
-    <script src="./script.js"></script>
+    <script src="script.js"></script>
 </body>
 </html>
 
