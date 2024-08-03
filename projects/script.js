@@ -89,9 +89,9 @@ function calculate() {
 
     // Display the result
     document.getElementById('result1').textContent = `Estimated Annual Savings: $${annualSavingsOut.toFixed(2)}`;
-    document.getElementById('result2').textContent = `Estimated Cost of Array: $${arrayCostOut.toFixed(0)}`;
-    document.getElementById('result3').textContent = `Estimated Credit: $${creditAmountOut.toFixed(0)}`;
-    document.getElementById('result4').textContent = `Estimated Net Cost: $${netArrayCostOut.toFixed(0)}`;
+    document.getElementById('result2').textContent = `Estimated Cost of Array: $${arrayCostOut.toFixed(2)}`;
+    document.getElementById('result3').textContent = `Estimated Credit: $${creditAmountOut.toFixed(2)}`;
+    document.getElementById('result4').textContent = `Estimated Net Cost: $${netArrayCostOut.toFixed(2)}`;
     document.getElementById('result5').textContent = `Estimated Return Rate: ${returnRateOut.toFixed(3)}%`;
 }
 
