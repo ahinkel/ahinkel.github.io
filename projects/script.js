@@ -85,7 +85,7 @@ function calculate() {
     const arrayCostOut = nameplateCapacityElem * wattCostElem * 1000;
     const creditAmountOut = arrayCostOut * (creditPercentElem / 100);
     const netArrayCostOut = arrayCostOut - creditAmountOut;
-    const returnRateOut = annualSavingsOut / netArrayCostOut;
+    const returnRateOut = 100 * annualSavingsOut / netArrayCostOut; //actual percentage, not decimal
 
     // Display the result
     document.getElementById('result1').textContent = `Estimated Annual Savings: $${annualSavingsOut.toFixed(2)}`;
