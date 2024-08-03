@@ -57,9 +57,6 @@ function filterTable() {
     displayTable(filteredData);
 }
 
-// Fetch and parse CSV on page load
-fetchCSV();
-
 
 
 
@@ -91,4 +88,8 @@ function calculate() {
     document.getElementById('result').textContent = `Estimated Credit: $${creditAmount.toFixed(2)}`;
     document.getElementById('result').textContent = `Estimated Net Cost: $${netArrayCost.toFixed(2)}`;
 }
+
+
+// Fetch and parse CSV on page load
+fetchCSV();
 
