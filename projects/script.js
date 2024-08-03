@@ -58,9 +58,6 @@ function filterTable() {
 }
 
 
-
-
-// script.js
 function calculate() {
     // Get input values
     const creditPercent = parseFloat(document.getElementById('creditPercent').value);
@@ -75,7 +72,7 @@ function calculate() {
         return;
     }
 
-    // Example calculation: Annual Savings
+    // Annual Savings
     const annualProduction = solarResource * 0.8 * 0.2 * 365 * (1.65 * nameplateCapacity / ( 0.350 )); // in kWh
     const annualSavings = annualProduction * costElectricity;
     const arrayCost = nameplateCapacity * wattCost * 1000;
@@ -84,11 +81,14 @@ function calculate() {
 
     // Display the result
     document.getElementById('result').textContent = `Estimated Annual Savings: $${annualSavings.toFixed(2)}`;
+}
+
+
+function ignoreMe() {
     document.getElementById('result').textContent = `Estimated Cost of Array: $${arrayCost.toFixed(2)}`;
     document.getElementById('result').textContent = `Estimated Credit: $${creditAmount.toFixed(2)}`;
     document.getElementById('result').textContent = `Estimated Net Cost: $${netArrayCost.toFixed(2)}`;
 }
-
 
 // Fetch and parse CSV on page load
 fetchCSV();
