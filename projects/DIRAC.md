@@ -85,20 +85,24 @@ NB: html and js are not languages I am all that familiar with.  Very open to hel
         <h1>Energy Cost Calculator</h1>
         <form id="calcForm">
             <div class="input-group">
-                <label for="creditPercent">Credit Percent (%)</label>
+                <label for="creditPercent">Credit Percent (0-70%)</label>
                 <input type="number" id="creditPercent" step="0.1" required>
             </div>
             <div class="input-group">
-                <label for="solarResource">Annual Avg Solar Resource (kWh/m²)</label>
+                <label for="solarResource">Avg Daily Solar Resource (Wh/m²/day), from table</label>
                 <input type="number" id="solarResource" step="0.01" required>
             </div>
             <div class="input-group">
-                <label for="capacity">Nameplate Capacity (kW)</label>
-                <input type="number" id="capacity" step="0.1" required>
+                <label for="nameplateCapacity">Nameplate Capacity (kiloWatts)</label>
+                <input type="number" id="nameplateCapacity" step="0.1" required>
             </div>
             <div class="input-group">
                 <label for="costElectricity">Cost of Electricity ($/kWh)</label>
                 <input type="number" id="costElectricity" step="0.01" required>
+            </div>
+            <div class="input-group">
+                <label for="wattCost">Cost of Solar Panels ($/W)</label>
+                <input type="number" id="wattCost" step="0.01" required>
             </div>
             <button type="button" onclick="calculate()">Calculate</button>
         </form>
