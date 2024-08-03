@@ -77,12 +77,11 @@ NB: html and js are not languages I am all that familiar with.  Very open to hel
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Energy Cost Calculator</title>
+    <title>Solar Cost Calculator</title>
     <!-- <link rel="stylesheet" href="./styles.css"> -->
 </head>
 <body>
     <div class="calculator">
-        <h1>Energy Cost Calculator</h1>
         <form id="calcForm">
             <div class="input-group">
                 <label for="creditPercent">Credit Percent (0-70%)</label>
