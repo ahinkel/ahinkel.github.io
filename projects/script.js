@@ -59,3 +59,32 @@ function filterTable() {
 
 // Fetch and parse CSV on page load
 fetchCSV();
+
+
+
+
+// script.js
+function calculate() {
+    // Get input values
+    const creditPercent = parseFloat(document.getElementById('creditPercent').value);
+    const solarResource = parseFloat(document.getElementById('solarResource').value);
+    const nameplateCapacity = parseFloat(document.getElementById('capacity').value);
+    const costElectricity = parseFloat(document.getElementById('costElectricity').value);
+    const wattCost = parseFloat(document.getElementById('wattCost').value);
+
+    // Validate inputs
+    if (isNaN(creditPercent) || isNaN(solarResource) || isNaN(nameplateCapacity) || isNaN(costElectricity) || isNaN(wattCost)) {
+        alert('Please fill in all fields with valid numbers.');
+        return;
+    }
+
+    // Example calculation: Annual Savings
+    const annualProduction = solarResource * 0.8 * 0.2 * 365 * (1.65 * nameplateCapacity / ( 0.350 )); // in kWh
+    const annualSavings = annualProduction * costElectricity * (creditPercent / 100);
+    const arrayCost = nameplateCapacity * wattCost * 1000;
+    const creditAmount = arrayCost * (creditPercent / 100);
+    const netArrayCost = arrayCost - creditAmount;
+
+    // Display the result
+    document.getElementById('result').textContent = `Estimated Annual Savings: $${annualSavings.toFixed(2)}`;
+}
