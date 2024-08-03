@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: DIRAC - Direct pay incentives from the Inflation Reduction Act for Colleges
 ---
 
