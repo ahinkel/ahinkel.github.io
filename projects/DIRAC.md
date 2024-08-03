@@ -1,6 +1,7 @@
 ---
 layout: single
 title: DIRAC - Direct pay incentives from the Inflation Reduction Act for Colleges
+author: Austin Hinkel
 ---
 
 # DIRAC:  <ins>D</ins>irect pay incentives from the <ins>I</ins>nflation <ins>R</ins>eduction <ins>A</ins>ct for <ins>C</ins>olleges
