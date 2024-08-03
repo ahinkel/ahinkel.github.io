@@ -40,7 +40,7 @@ These estimates are intended to be a starting point only and are not tax advice.
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>CSV Search</title>
+    <title>Direct pay incentives from the Inflation Reduction Act for Colleges</title>
     <style>
         table {
             width: 100%;
