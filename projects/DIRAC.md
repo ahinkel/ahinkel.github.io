@@ -20,6 +20,15 @@ PLEASE NOTE: This tool is in beta testing. Other Energy Communities exist that a
 
 School data was spatially joined with solar resource data to estimate the potential for solar power on each campus.  The resulting data was then spatially joined with the DoE's energy community data to inform the tax credit available to each institution. Brownfield data is not included.
 
+### Testing
+
+<details>
+
+    <summary>Show/Hide</summary>
+
+    This text is hidden at first, but can be expanded by the user.
+
+</details>
 
 ### Columns returned include:
 - Institution Name
