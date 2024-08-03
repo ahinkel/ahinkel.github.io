@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DIRAC: Direct pay incentives from the Inflation Reduction Act for Colleges
+title: DIRAC - Direct pay incentives from the Inflation Reduction Act for Colleges
 ---
 
 # DIRAC:  <ins>D</ins>irect pay incentives from the <ins>I</ins>nflation <ins>R</ins>eduction <ins>A</ins>ct for <ins>C</ins>olleges
