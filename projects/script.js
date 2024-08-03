@@ -80,11 +80,15 @@ function calculate() {
 
     // Example calculation: Annual Savings
     const annualProduction = solarResource * 0.8 * 0.2 * 365 * (1.65 * nameplateCapacity / ( 0.350 )); // in kWh
-    const annualSavings = annualProduction * costElectricity * (creditPercent / 100);
+    const annualSavings = annualProduction * costElectricity;
     const arrayCost = nameplateCapacity * wattCost * 1000;
     const creditAmount = arrayCost * (creditPercent / 100);
     const netArrayCost = arrayCost - creditAmount;
 
     // Display the result
     document.getElementById('result').textContent = `Estimated Annual Savings: $${annualSavings.toFixed(2)}`;
+    document.getElementById('result').textContent = `Estimated Cost of Array: $${arrayCost.toFixed(2)}`;
+    document.getElementById('result').textContent = `Estimated Credit: $${creditAmount.toFixed(2)}`;
+    document.getElementById('result').textContent = `Estimated Net Cost: $${netArrayCost.toFixed(2)}`;
 }
+
