@@ -60,23 +60,30 @@ function filterTable() {
 
 function calculate() {
     // Get input values
-    const creditPercent = parseFloat(document.getElementById('creditPercent').value);
-    const solarResource = parseFloat(document.getElementById('solarResource').value);
-    const nameplateCapacity = parseFloat(document.getElementById('nameplateCapacity').value);
-    const costElectricity = parseFloat(document.getElementById('costElectricity').value);
-    const wattCost = parseFloat(document.getElementById('wattCost').value);
+    const creditPercentElem = parseFloat(document.getElementById('creditPercent').value);
+    const solarResourceElem = parseFloat(document.getElementById('solarResource').value);
+    const nameplateCapacityElem = parseFloat(document.getElementById('nameplateCapacity').value);
+    const costElectricityElem = parseFloat(document.getElementById('costElectricity').value);
+    const wattCostElem = parseFloat(document.getElementById('wattCost').value);
 
     // Validate inputs
-    if (isNaN(creditPercent) || isNaN(solarResource) || isNaN(nameplateCapacity) || isNaN(costElectricity) || isNaN(wattCost)) {
+    if (isNaN(creditPercentElem) || isNaN(solarResourceElem) || isNaN(nameplateCapacityElem) || isNaN(costElectricityElem) || isNaN(wattCostElem)) {
         alert('Please fill in all fields with valid numbers.');
         return;
     }
 
+    // Log elements to check if they are found
+    console.log('creditPercentElem:', creditPercentElem);
+    console.log('solarResourceElem:', solarResourceElem);
+    console.log('nameplateCapacityElem:', nameplateCapacityElem);
+    console.log('costElectricityElem:', costElectricityElem);
+    console.log('wattCostElem:', wattCostElem);
+    
     // Annual Savings
-    const annualProduction = solarResource * 0.8 * 0.2 * 365 * (1.65 * nameplateCapacity / ( 0.350 )); // in kWh
-    const annualSavings = annualProduction * costElectricity;
-    const arrayCost = nameplateCapacity * wattCost * 1000;
-    const creditAmount = arrayCost * (creditPercent / 100);
+    const annualProduction = solarResourceElem * 0.8 * 0.2 * 365 * (1.65 * nameplateCapacityElem / ( 0.350 )); // in kWh
+    const annualSavings = annualProduction * costElectricityElem;
+    const arrayCost = nameplateCapacityElem * wattCostElem * 1000;
+    const creditAmount = arrayCost * (creditPercentElem / 100);
     const netArrayCost = arrayCost - creditAmount;
 
     // Display the result
