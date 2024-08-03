@@ -90,7 +90,7 @@ These estimates are intended to be a starting point only and are not tax advice.
                 <input type="number" id="creditPercent" step="0.1" required>
             </div>
             <div class="input-group">
-                <label for="solarResource">Avg Daily Solar Resource (Wh/m²/day), from table below</label>
+                <label for="solarResource">Avg Daily Solar Resource (Wh/m²/day), from table above</label>
                 <input type="number" id="solarResource" step="0.01" required>
             </div>
             <div class="input-group">
