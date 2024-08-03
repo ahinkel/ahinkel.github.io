@@ -92,7 +92,7 @@ function calculate() {
     document.getElementById('result2').textContent = `Estimated Cost of Array: $${arrayCostOut.toFixed(0)}`;
     document.getElementById('result3').textContent = `Estimated Credit: $${creditAmountOut.toFixed(0)}`;
     document.getElementById('result4').textContent = `Estimated Net Cost: $${netArrayCostOut.toFixed(0)}`;
-    document.getElementById('result5').textContent = `Estimated Return Rate: $${returnRateOut.toFixed(0)}`;
+    document.getElementById('result5').textContent = `Estimated Return Rate: ${returnRateOut.toFixed(3)}%`;
 }
 
 
