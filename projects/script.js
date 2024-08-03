@@ -62,7 +62,7 @@ function calculate() {
     // Get input values
     const creditPercent = parseFloat(document.getElementById('creditPercent').value);
     const solarResource = parseFloat(document.getElementById('solarResource').value);
-    const nameplateCapacity = parseFloat(document.getElementById('capacity').value);
+    const nameplateCapacity = parseFloat(document.getElementById('nameplateCapacity').value);
     const costElectricity = parseFloat(document.getElementById('costElectricity').value);
     const wattCost = parseFloat(document.getElementById('wattCost').value);
 
