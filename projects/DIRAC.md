@@ -5,9 +5,16 @@ title: DIRAC - Direct pay incentives from the Inflation Reduction Act for Colleg
 
 # DIRAC:  <ins>D</ins>irect pay incentives from the <ins>I</ins>nflation <ins>R</ins>eduction <ins>A</ins>ct for <ins>C</ins>olleges
 
-The following search tool (scroll down) uses data derived from the DoE, IPEDS, and NREL to estimate return on investment for solar arrays on college campuses.  Comparisons are drawn to typical endowments, allowing schools to see the financial benefit of investing in on-campus solar.  The following assumes the array is under 1 MegaWatt in size.
+The following search tool uses data derived from the DoE, IPEDS, and NREL to estimate return on investment for solar arrays on college campuses.  Comparisons are drawn to typical endowments, allowing schools to see the financial benefit of investing in on-campus solar.  The following assumes the array is under 1 MegaWatt in size.
 
 PLEASE NOTE: This tool is in beta testing. Other Energy Communities exist that are not taken into account just yet.  Please see the [official website](https://energycommunities.gov/energy-community-tax-credit-bonus/) for more information.
+
+
+<html lang="en">
+    <body>
+        <hr width="100%" size="2">
+    </body>
+</html>
 
 
 ## Data Provenance:
@@ -58,6 +65,14 @@ PLEASE NOTE: This tool is in beta testing. Other Energy Communities exist that a
 
 
 
+<html lang="en">
+    <body>
+        <hr width="100%" size="2">
+    </body>
+</html>
+
+
+
 ## Additional Info: 
 <html lang="en">
     <details>
@@ -83,7 +98,7 @@ PLEASE NOTE: This tool is in beta testing. Other Energy Communities exist that a
 </html>
 
 
-### Search:
+## Search:
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -125,7 +140,7 @@ PLEASE NOTE: This tool is in beta testing. Other Energy Communities exist that a
 </html>
 
 
-### Calculator:
+## Calculator:
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -169,10 +184,18 @@ PLEASE NOTE: This tool is in beta testing. Other Energy Communities exist that a
 </html>
 
 
+<html lang="en">
+    <body>
+        <hr width="100%" size="2">
+    </body>
+</html>
+
 
 ## Some Final Notes:
 
 Please feel free to use and share with attribution.
+
+For more on Schools and the Inflation Reduction Act, see [here.](https://www.undauntedk12.org/resources-learn-more-ira-for-schools)
 
 NB: html and javascript are not languages I am very experienced with.  Very open to help cleaning up this search tool.  Please get in touch.
 
