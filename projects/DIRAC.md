@@ -35,6 +35,45 @@ These estimates are intended to be a starting point only and are not tax advice.
 - Brownfield (EPA) status = additional 10% if not already satisfying Energy Community credit.
 
 
+
+
+### Search:
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Direct pay incentives from the Inflation Reduction Act for Colleges</title>
+    <style>
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        table, th, td {
+            border: 1px solid black;
+        }
+        th, td {
+            padding: 8px;
+            text-align: left;
+        }
+    </style>
+</head>
+<body>
+    <input type="text" id="searchInput" placeholder="Search..." />
+    <table id="csvTable">
+        <thead>
+            <tr></tr>
+        </thead>
+        <tbody></tbody>
+    </table>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.0/papaparse.min.js"></script>
+    <script src="./script.js"></script>
+</body>
+</html>
+
+
+
+
 ### Calculator:
 <html lang="en">
 <head>
@@ -80,39 +119,6 @@ These estimates are intended to be a starting point only and are not tax advice.
 
 
 
-### Search:
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Direct pay incentives from the Inflation Reduction Act for Colleges</title>
-    <style>
-        table {
-            width: 100%;
-            border-collapse: collapse;
-        }
-        table, th, td {
-            border: 1px solid black;
-        }
-        th, td {
-            padding: 8px;
-            text-align: left;
-        }
-    </style>
-</head>
-<body>
-    <input type="text" id="searchInput" placeholder="Search..." />
-    <table id="csvTable">
-        <thead>
-            <tr></tr>
-        </thead>
-        <tbody></tbody>
-    </table>
-
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.0/papaparse.min.js"></script>
-    <script src="./script.js"></script>
-</body>
-</html>
 
 
 NB: html and js are not languages I am all that familiar with.  Very open to help cleaning up this search tool. Please get in touch.
