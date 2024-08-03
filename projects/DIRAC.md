@@ -10,7 +10,7 @@ The following search tool (scroll down) uses data derived from the DoE, IPEDS, a
 PLEASE NOTE: This tool is in beta testing. Other Energy Communities exist that are not taken into account just yet.  Please see the [official website](https://energycommunities.gov/energy-community-tax-credit-bonus/) for more information.
 
 
-### Data Provenance:
+## Data Provenance:
 <html lang="en">
     <details>
     
@@ -36,20 +36,45 @@ PLEASE NOTE: This tool is in beta testing. Other Energy Communities exist that a
 </html>
 
 
-### Columns returned include:
-- Institution Name
-- City of institution
-- State of institution
-- IRA Direct Pay Incentive estimate as a decimal (e.g., 0.30 corresponds to a 30% credit)
-- Yearly Estimated Savings, in US Dollars, approximated from NREL solar resource data. Assumes an 80 kW array.
-- Average daily solar resource data from NREL in Wh/m^2/day for the campus location given in IPEDS. Averaged over a year.
-- Estimate return rate on investment assuming $2.00/installed Watt of DC solar, 0.2 panel efficiency, 0.8 system efficiency, 12 cents/kWh, the tax credit for the institution as estimated from DoE data, and solar resource given by NREL data. (e.g., 0.11 corresponds to 11%). You can customize your calculations in the calculator below the search tool.
+## Columns returned include:
+<html lang="en">
+    <details>
+    
+        <summary>Click to expand or hide text</summary>
 
-These estimates are intended to be a starting point only and are not tax advice.  The data is limited by what is contained in IPEDS, NREL, and DoE data.  Further incentives can be leveraged as well, including:
-- US-made materials = additional 10%
-- Low-inclome community or Native American land = additional 10%
-- Low-income community benefit project = additional 10%
-- Brownfield (EPA) status = additional 10% if not already satisfying Energy Community credit.
+            <ul>
+              <li>Institution Name</li>
+              <li>City of institution</li>
+              <li>State of institution</li>
+              <li>IRA Direct Pay Incentive estimate as a decimal (e.g., 0.30 corresponds to a 30% credit)</li>
+              <li>Yearly Estimated Savings, in US Dollars, approximated from NREL solar resource data. Assumes an 80 kW array.</li>
+              <li>Average daily solar resource data from NREL in Wh/m^2/day for the campus location given in IPEDS. Averaged over a year.</li>
+              <li>Estimated return rate on investment assuming $2.00/installed Watt of DC solar, 0.2 panel efficiency, 0.8 system efficiency, 12 cents/kWh, the tax credit for the institution as estimated from DoE data, and solar resource given by NREL data. (e.g., 0.11 corresponds to 11%). You can customize your calculations in the calculator below the search tool.</li>
+            </ul>
+
+
+    </details>
+</html>
+
+
+
+## Additional Info: 
+<html lang="en">
+    <details>
+    
+        <summary>Click to expand or hide text</summary>
+
+            These estimates are intended to be a starting point only and are not tax advice.  The data is limited by what is contained in IPEDS, NREL, and DoE data.  Further incentives can be leveraged as well, including:
+            <ul>
+                <li>US-made materials = additional 10%</li>
+                <li>Low-inclome community or Native American land = additional 10%</li>
+                <li>Low-income community benefit project = additional 10%</li>
+                <li>Brownfield (EPA) status = additional 10% if not already satisfying Energy Community credit.</li>
+            </ul>
+    </details>
+</html>
+
+
 
 <html lang="en">
     <body>
@@ -145,12 +170,16 @@ These estimates are intended to be a starting point only and are not tax advice.
 
 
 
+## Some Final Notes:
 
+Please feel free to use and share with attribution.
 
-NB: html and js are not languages I am all that familiar with.  Very open to help cleaning up this search tool. Please get in touch.
+NB: html and javascript are not languages I am very experienced with.  Very open to help cleaning up this search tool.  Please get in touch.
 
 
 
 
 ### For comments on the acronym:
 Please see [here.](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+
+
