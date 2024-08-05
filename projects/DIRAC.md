@@ -17,7 +17,7 @@ PLEASE NOTE: This tool is in beta testing. Other Energy Communities exist that a
 </html>
 
 
-<a href="url">link text</a>
+
 
 ## Data Provenance:
 <html lang="en">
