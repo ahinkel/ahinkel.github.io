@@ -210,6 +210,8 @@ Please feel free to use and share with attribution.
 
 For more on Schools and the Inflation Reduction Act, see [here.](https://www.undauntedk12.org/resources-learn-more-ira-for-schools)
 
+To go back to my personal website, click [here.](https://github.com/ahinkel/ahinkel.github.io)
+
 NB: html and javascript are not languages I am very experienced with.  Very open to help cleaning up the appearance of this search tool.  Please get in touch.
 
 
