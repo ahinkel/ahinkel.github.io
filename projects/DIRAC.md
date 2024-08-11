@@ -5,9 +5,9 @@ title: DIRAC - Direct pay incentives from the Inflation Reduction Act for Colleg
 
 # DIRAC:  <ins>D</ins>irect pay incentives from the <ins>I</ins>nflation <ins>R</ins>eduction <ins>A</ins>ct for <ins>C</ins>olleges
 
-The following search tool uses data derived from the DoE, IPEDS, and NREL to estimate return on investment for solar arrays on college campuses.  Comparisons are drawn to typical endowments, allowing schools to see the financial benefit of investing in on-campus solar.  The following assumes the array is under 1 MegaWatt in size, and annual energy savings estimates use a nameplate capacity of 80 kW.
+The following search tool uses data derived from the DoE, IPEDS, and NREL to estimate return on investment for solar arrays on college campuses.  Comparisons are drawn to typical endowments, allowing schools to see the financial benefit of investing in on-campus solar.  The following assumes the institution has 501c3 nonprofit status, the array is under 1 MegaWatt in size, and annual energy savings estimates use a nameplate capacity of 80 kW.  The calculator tool below the search table allows one to alter some of these assumptions.
 
-PLEASE NOTE: This tool is in beta testing. Other Energy Communities exist that are not taken into account just yet.  Please see the [official website](https://energycommunities.gov/energy-community-tax-credit-bonus/) for more information.
+PLEASE NOTE: This tool is in beta testing. Other Energy Communities exist that are not taken into account just yet.  Please see [here](https://energycommunities.gov/energy-community-tax-credit-bonus/) for more information.
 
 
 <html lang="en">
