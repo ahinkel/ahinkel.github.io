@@ -102,7 +102,7 @@ PLEASE NOTE: This tool is in beta testing. Other Energy Communities exist that a
 
 ## Maps:
 - Click [here](../assets/pdfs/allCollegesUSstates.pdf) for a map of the institutions of higher learning.
-- Click [here](../assets/pdfs/both_EC_types_studied.pdf) for a map of the institutions within an Energy Community (excludes brownfields and depicts only the continental US)
+- Click [here](../assets/pdfs/both_EC_types_studied.png) for a map of the institutions within an Energy Community (excludes brownfields and depicts only the continental US)
 
 <html lang="en">
     <body>
