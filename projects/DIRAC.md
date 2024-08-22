@@ -11,7 +11,7 @@ PLEASE NOTE: This tool is in beta testing. Other Energy Communities exist that a
 
 
 <html lang="en">
-    <p> If you'd like to jump directly to the calculator tool, click <a href="#anchor1">here</a>
+    <p> If you'd like to jump directly to the calculator tool, click <a href="#anchor1">here</a> </p>
 </html>
 
 
