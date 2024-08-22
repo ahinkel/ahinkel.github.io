@@ -11,6 +11,11 @@ PLEASE NOTE: This tool is in beta testing. Other Energy Communities exist that a
 
 
 <html lang="en">
+    <p> If you'd like to jump directly to the calculator tool, click <a href="#anchor1">here</a>
+</html>
+
+
+<html lang="en">
     <body>
         <hr width="100%" size="2">
     </body>
@@ -196,6 +201,9 @@ PLEASE NOTE: This tool is in beta testing. Other Energy Communities exist that a
 </body>
 </html>
 
+<html lang="en">
+    <p id="anchor1">Thanks for stopping by.</p>
+</html>
 
 <html lang="en">
     <body>
