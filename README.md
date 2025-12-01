@@ -34,7 +34,7 @@ Here is my full [CV](https://ahinkel.github.io/assets/pdfs/AustinHinkel_CV_5.pdf
 ## Selected Publications:
 
 
-- NEW! "Plantary Defense in the Introductory Astronomy Classroom: Visualizing Kepler's Laws", **Austin Hinkel**, to appear in:  *The Physics Teacher* (Astro-Notes Column).
+- NEW! "Plantary Defense in the Introductory Astronomy Classroom: Visualizing Kepler's Laws", **Austin Hinkel**, to appear in:  *The Physics Teacher* (Astro-Notes Column) 2025/2026.
 - "Two-point correlation function studies for the Milky Way: discovery of spatial clustering from disk excitations and substructure", **Austin Hinkel**, Gardner, S., Yanny, B., (2023). [*The Astrophysical Journal*](https://doi.org/10.3847/1538-4357/ac9ccc).
 - "Axial Asymmetry Studies in Gaia Data Release 2 Yield the Pattern Speed of the Galactic Bar", **Austin Hinkel**, Gardner, S., Yanny, B., (2020). [*The Astrophysical Journal Letters*](https://doi.org/10.3847/2041-8213/aba905).
 - "Probing Axial Symmetry Breaking in the Galaxy with Gaia Data Release 2", **Austin Hinkel**, Gardner, S., Yanny, B., (2020). [*The Astrophysical Journal*](https://doi.org/10.3847/1538-4357/ab8235).
