@@ -2,7 +2,7 @@
 
 Hi there -- my name is Austin Hinkel and this is my personal website. 
 
-I am an Assistant Professor at Thomas More University studying Galactic Archaeology and Galactic Structure.  I love teaching introductory physics and astronomy courses, and I am also a huge fan of using data science for social good.  If you're interested in collaborating on a project that helps to meet a United Nations Sustainable Development Goal, let me know!
+I am an Assistant Professor at Thomas More University studying Galactic Archaeology and Galactic Structure.  I love teaching introductory physics and astronomy courses, and I am also a huge fan of using data science for social good.  If you're interested in collaborating on a project that helps to meet a United Nations Sustainable Development Goal, let me know!  I am always looking to make a down-to-Earth, positive impact to balance my Astrophysics research.
 
 This website acts as an abbreviated CV, but I also plan to write about some of my work in astronomy, astrophysics, and data science.  More details on this soon(ish)! 
 
@@ -34,10 +34,11 @@ Here is my full [CV](https://ahinkel.github.io/assets/pdfs/AustinHinkel_CV_5.pdf
 ## Selected Publications:
 
 
+- NEW! "Plantary Defense in the Introductory Astronomy Classroom: Visualizing Kepler's Laws", **Austin Hinkel**, to appear in:  *The Physics Teacher* (Astro-Notes Column).
 - "Two-point correlation function studies for the Milky Way: discovery of spatial clustering from disk excitations and substructure", **Austin Hinkel**, Gardner, S., Yanny, B., (2023). [*The Astrophysical Journal*](https://doi.org/10.3847/1538-4357/ac9ccc).
 - "Axial Asymmetry Studies in Gaia Data Release 2 Yield the Pattern Speed of the Galactic Bar", **Austin Hinkel**, Gardner, S., Yanny, B., (2020). [*The Astrophysical Journal Letters*](https://doi.org/10.3847/2041-8213/aba905).
 - "Probing Axial Symmetry Breaking in the Galaxy with Gaia Data Release 2", **Austin Hinkel**, Gardner, S., Yanny, B., (2020). [*The Astrophysical Journal*](https://doi.org/10.3847/1538-4357/ab8235).
-- "Applying Noether's Theorem to Matter in the Milky Way: Evidence for External Perturbations and Non-steady-state Effects from Gaia Data Release 2", Gardner, S., **Austin Hinkel**, Yanny, B., (2020). [*The Astrophysical Journal*](https://doi.org/10.3847/1538-4357/ab66c8).
+
 
 
 
@@ -79,9 +80,12 @@ This section is a work in progress.
 
 
 - [Data Visualizations for Inflation Reduction Act Funding and Schools](/projects/DIRAC).
-- [A Two-point Correlation Function Study of the Milky Way](/projects/MilkyWay_2PCF).  Details TBA.
 - [Data-driven fall risk project](/projects/DataDrivenFallRisk).  Details TBA.
 - [Parkinson's Disease Freezing of Gait Kaggle Competition](/projects/KaggleParkinsonsML).  Details TBA.
+- [A Two-point Correlation Function Study of the Milky Way](/projects/MilkyWay_2PCF).  Details TBA.
+- Heat Island Measurements and Geospatial Data Project.  Details TBA.
+- Light Pollution Measurements and Mapping.  Details TBA.
+- Introductory Astronomy Kaggle Programming Tools.  Details TBA.
 - New Galactic Archaeology and data mining tools.  Details TBA.
 - Energy Efficiency project.  Details TBA.
 
