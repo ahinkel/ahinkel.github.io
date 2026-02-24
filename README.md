@@ -19,14 +19,18 @@ Here is my full [CV](https://ahinkel.github.io/assets/pdfs/AustinHinkel_CV_5.pdf
 ## Other Places to Find Me:
 
 
+### Academic/Professional:
 - [Thomas More University](https://itwin.thomasmore.edu/WebApps/EmployeeDirectory/Home/EmpDetails/734)
 - [Google Scholar Profile](https://scholar.google.com/citations?user=Act8eHcAAAAJ&hl=en&oi=ao)
 - [My Orcid Page](https://orcid.org/0000-0002-9785-914X)
-- [Twitter/X](https://twitter.com/iHinkthere4iam)
 - [LinkedIn](https://www.linkedin.com/in/austin-hinkel/)
+- [ArXiv](https://arxiv.org/search/?query=Hinkel%2C+Austin&searchtype=author&abstracts=show&order=-announced_date_first&size=50)
+
+### Other:
+- [Bluesky](https://bsky.app/profile/ihinkthere4iam.bsky.social)
 - [Kaggle](https://www.kaggle.com/austinhinkel)
 - [DSSG Solve](https://solveforgood.org/user/8457)
-- [ArXiv](https://arxiv.org/search/?query=Hinkel%2C+Austin&searchtype=author&abstracts=show&order=-announced_date_first&size=50)
+
 
 
 
