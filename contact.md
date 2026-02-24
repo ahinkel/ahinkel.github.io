@@ -8,7 +8,7 @@ title: Contact
 <p>Feel free to reach out about research collaborations, data science for social good, or anything else!</p>
 
 <form id="contact-form" action="https://api.web3forms.com/submit" method="POST">
-  <input type="hidden" name="access_key" value="e8392ae7-1c9a-4d89-9f8b-e9682d1c950b">
+  <input type="hidden" name="access_key" value="cee7ff07-10c9-4790-bfd2-bdb8c77ccc6c">
   <input type="hidden" name="subject" value="New message from ahinkel.github.io">
   <input type="hidden" name="redirect" value="false">
 
