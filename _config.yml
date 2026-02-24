@@ -3,6 +3,7 @@ layout: single
 title: Austin Hinkel
 description: Astrophysicist, Data Scientist, UNSDG geek, and Educator
 logo: /assets/img/hikingPicArch_smaller.jpg
+plugins: jekyll-seo-tag
 google_analytics: G-DHT8P9N8PG
 
 
@@ -11,12 +12,12 @@ google_analytics: G-DHT8P9N8PG
 
 #author:
 #  name             : "Austin Hinkel"
-#  bio              : "Astrophysicist, Data Scientist, UNSDG geek, and Teacher"
+#  bio              : "Astrophysicist, Data Scientist, UNSDG geek, and Educator"
 #  location         : "Crestview Hills, KY"
 #  employer         : "Thomas More University"
 #  googlescholar    : "https://scholar.google.com/citations?user=Act8eHcAAAAJ&hl=en&oi=ao"
 #  orcid            : "https://orcid.org/0000-0002-9785-914X"
-#  twitter/X        : "iHinkthere4iam"
+#  Bluesky          : "iHinkthere4iam"
 
 
 
