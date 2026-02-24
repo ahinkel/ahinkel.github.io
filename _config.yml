@@ -1,12 +1,9 @@
-plugins: 
-- jekyll-seo-tag
 url: https://ahinkel.github.io/
 theme: jekyll-theme-minimal
 layout: single
 title: Austin Hinkel
 description: Astrophysicist, Data Scientist, UNSDG geek, and Educator
 logo: /assets/img/hikingPicArch_smaller.jpg
-
 google_analytics: G-DHT8P9N8PG
 
 
