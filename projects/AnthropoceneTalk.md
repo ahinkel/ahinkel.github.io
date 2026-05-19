@@ -44,7 +44,7 @@ In the spirit of planetary stewardship, I shared a number of small, low-friction
 - [Energy Star Yard Stick](https://www.energystar.gov/campaign/home-energy-yardstick)
 - [i-Tree Design](https://design.itreetools.org/)
 - [Cincinnati Reuse and Recycle Hub](https://www.cincinnatirecyclingandreusehub.org/)
-- + native seed packets.
+- and native seed packets.
 
 
 
