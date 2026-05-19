@@ -31,7 +31,7 @@ Similar to astronomy, when trying to understand the scale of the anthropocene, w
 
 There's no doubt that there are a number of issues in the Anthropocene that need to be solved.  The good news is we've done it before.  At the end of the 20th century, science sounded the alarm on ozone depleting substances and policy action followed.  Today, the Ozone Hole is shrinking.
 
-In the spirit of planetary stewardship, I shared a number of small, low-friction, local ways to get involved:
+In the spirit of planetary stewardship, I shared a number of small, local, low-friction ways to get involved:
 
 - [iNaturalist Citizen Science Project](https://www.inaturalist.org/)
 - [Cincinnati Zoo Native Plant Finder](https://cincinnatizoo.org/gardens/plants/)
