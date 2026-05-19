@@ -31,11 +31,20 @@ Similar to astronomy, when trying to understand the scale of the anthropocene, w
 
 There's no doubt that there are a number of issues in the Anthropocene that need to be solved.  The good news is we've done it before.  At the end of the 20th century, science sounded the alarm on ozone depleting substances and policy action followed.  Today, the Ozone Hole is shrinking.
 
-In the spirit of planetary stewardship, I shared a number of ways to get involved:
+In the spirit of planetary stewardship, I shared a number of small, low-friction, local ways to get involved:
 
-- h
-- j
-- l
+- [iNaturalist Citizen Science Project](https://www.inaturalist.org/)
+- [Cincinnati Zoo Native Plant Finder](https://cincinnatizoo.org/gardens/plants/)
+- [Homegrown National Park](https://homegrownnationalpark.org/)
+- [Wildr](https://www.joinwildr.com/)
+- [Kentucky Watershed Watch](https://www.kywater.org/)
+- [Green Umbrella](https://greenumbrella.org/)
+- [Globe at Night Citizen Science Project](https://globeatnight.org/)
+- [Merlin Bird ID Citizen Science Project](https://merlin.allaboutbirds.org/)
+- [Energy Star Yard Stick](https://www.energystar.gov/campaign/home-energy-yardstick)
+- [i-Tree Design](https://design.itreetools.org/)
+- [Cincinnati Reuse and Recycle Hub](https://www.cincinnatirecyclingandreusehub.org/)
+- + native seed packets.
 
 
 
