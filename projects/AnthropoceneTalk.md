@@ -26,7 +26,7 @@ The Anthropocene is a proposed epoch of the Earth's Geologic Time Scale characte
 
 ## Other Thoughts on the Lecture:
 
-
+I am very interested in giving this talk (or a similar talk) again.  Please [reach out]() if you are interested.
 
 
 
