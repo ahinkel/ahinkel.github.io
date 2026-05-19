@@ -5,9 +5,11 @@ I run an [Astronomy Public Lecture Series](https://www.thomasmore.edu/info-for/a
 Critically, though, I didn't want to spend the entire talk focusing on the scale of the problem.  I also wanted to offer attendees ways to get involved and take action to engage in planetary stewardship in some small way.  This page outlines some of those ways to take action as well as some perspectives on the scale of human impact on the Earth System that I found interesting.
 
 
+
 ## The Anthropocene: 
 
 The Anthropocene is a proposed epoch of the Earth's Geologic Time Scale characterized by the dominant influence of human activity on the Earth system.  (Think: Climate Change, Biodiversity Crisis, Ozone Depletion, etc.)
+
 
 #### The Physics and Astronomy Connection:
 
@@ -24,19 +26,6 @@ Similar to astronomy, when trying to understand the scale of the anthropocene, w
 
 
 
-#### Ways to Learn More:
-
-If you'd like to learn more, here are several documentaries/books to check out:
-
-- [An Anthropocene Documentary](https://youtu.be/ZZ845voIiOE?si=C2y6F7JzJX7fW1sB)
-- [The Anthropocene: Where on Earth are we Going?](https://youtu.be/HvD0TgE34HA?si=FGQ332_lNgk9hxmC)
-- [Anthropocene: A Very Short Introduction, by Erle C. Ellis](https://www.betterworldbooks.com/product/detail/anthropocene-a-very-short-introduction-9780198792987)
-- [David Attenborough: A Life on our Planet](https://www.netflix.com/title/80216393)
-- [Breaking Boundaries: The Science of our Planet](https://www.netflix.com/title/81336476)
-- [What is the Anthropocene and Why Does It Matter?](https://www.nhm.ac.uk/discover/what-is-the-anthropocene.html)
-- [Age of Man: Enter the Anthropocene](https://education.nationalgeographic.org/resource/age-man-enter-anthropocene/)
-
-
 
 ## Action in the Anthropocene:
 
@@ -49,6 +38,17 @@ If you'd like to learn more, here are several documentaries/books to check out:
 I am very interested in giving this talk (or a similar talk) again.  Please [reach out](/contact) if you are interested.
 
 
+## Ways to Learn More:
+
+If you'd like to learn more, here are several documentaries/books/popular articles to check out:
+
+- [An Anthropocene Documentary](https://youtu.be/ZZ845voIiOE?si=C2y6F7JzJX7fW1sB)
+- [The Anthropocene: Where on Earth are we Going?](https://youtu.be/HvD0TgE34HA?si=FGQ332_lNgk9hxmC)
+- [Anthropocene: A Very Short Introduction, by Erle C. Ellis](https://www.betterworldbooks.com/product/detail/anthropocene-a-very-short-introduction-9780198792987)
+- [David Attenborough: A Life on our Planet](https://www.netflix.com/title/80216393)
+- [Breaking Boundaries: The Science of our Planet](https://www.netflix.com/title/81336476)
+- [What is the Anthropocene and Why Does It Matter?](https://www.nhm.ac.uk/discover/what-is-the-anthropocene.html)
+- [Age of Man: Enter the Anthropocene](https://education.nationalgeographic.org/resource/age-man-enter-anthropocene/)
 
 
 
