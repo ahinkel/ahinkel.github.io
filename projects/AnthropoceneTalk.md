@@ -7,11 +7,15 @@ Critically, though, I didn't want to spend the entire talk focusing on the scale
 
 ## The Anthropocene: 
 
-The Anthropocene is a proposed epoch of the Earth's Geologic Time Scale characterized by the dominant influence of human activity on the Earth system.
+The Anthropocene is a proposed epoch of the Earth's Geologic Time Scale characterized by the dominant influence of human activity on the Earth system.  (Think: Climate Change, Biodiversity Crisis, Ozone Depletion, etc.)
 
 #### The Physics and Astronomy Connection:
 
+Over the last million or so years, Earth's climate has been largely controlled by small, periodic changes in Earth's orbital motion: the Milankovitch Cycles. These cycles are slight changes in Earth's tilt, the shape of Earth's orbit, and the direction Earth's axis points in space.  Together, these three cycles governed the energy balance of the Earth, resulting in the climactic patterns of the last million years or so.  Namely, for just about the entire existence of modern humans, the periodic ice ages and warmer interglacial periods had been controlled by how much of the Sun's energy hits the Northern Hemisphere.  Relatively recently, though, this has begun to change.
+
 #### Putting the Numbers into Perspective:
+
+
 
 #### Ways to Learn More:
 
