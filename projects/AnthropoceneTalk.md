@@ -26,6 +26,15 @@ Similar to astronomy, when trying to understand the scale of the anthropocene, w
 
 #### Ways to Learn More:
 
+If you'd like to learn more, here are several documentaries/books to check out:
+
+- [An Anthropocene Documentary](https://youtu.be/ZZ845voIiOE?si=C2y6F7JzJX7fW1sB)
+- [The Anthropocene: Where on Earth are we Going?](https://youtu.be/HvD0TgE34HA?si=FGQ332_lNgk9hxmC)
+- [Anthropocene: A Very Short Introduction, by Erle C. Ellis](https://www.betterworldbooks.com/product/detail/anthropocene-a-very-short-introduction-9780198792987)
+- [David Attenborough: A Life on our Planet](https://www.netflix.com/title/80216393)
+- [Breaking Boundaries: The Science of our Planet](https://www.netflix.com/title/81336476)
+- [What is the Anthropocene and Why Does It Matter?](https://www.nhm.ac.uk/discover/what-is-the-anthropocene.html)
+- [Age of Man: Enter the Anthropocene](https://education.nationalgeographic.org/resource/age-man-enter-anthropocene/)
 
 
 
