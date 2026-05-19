@@ -7,11 +7,13 @@ Critically, though, I didn't want to spend the entire talk focusing on the scale
 
 ## The Anthropocene: 
 
-### The Physics and Astronomy Connection:
+The Anthropocene is a proposed epoch of the Earth's Geologic Time Scale characterized by the dominant influence of human activity on the Earth system.
 
-### Putting the Numbers into Perspective:
+#### The Physics and Astronomy Connection:
 
-### Ways to Learn More:
+#### Putting the Numbers into Perspective:
+
+#### Ways to Learn More:
 
 
 
