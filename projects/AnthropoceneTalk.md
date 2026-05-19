@@ -13,7 +13,14 @@ The Anthropocene is a proposed epoch of the Earth's Geologic Time Scale characte
 
 Over the last million or so years, Earth's climate has been largely controlled by small, periodic changes in Earth's orbital motion: the Milankovitch Cycles. These cycles are slight changes in Earth's tilt, the shape of Earth's orbit, and the direction Earth's axis points in space.  Together, these three cycles governed the energy balance of the Earth, resulting in the climactic patterns of the last million years or so.  Namely, for just about the entire existence of modern humans, the periodic ice ages and warmer interglacial periods had been controlled by how much of the Sun's energy hits the Northern Hemisphere.  Relatively recently, though, this has begun to change.  This change, along with several other anthropogenic changes, have been suggested as a demarcating line for a new geologic epoch.
 
+
 #### Putting the Numbers into Perspective:
+
+Similar to astronomy, when trying to understand the scale of the anthropocene, we are forced to confront unimaginably large numbers.  In many cases, it is helpful to put the numbers into context.  Here are a few that I found to be the most interesting:
+
+- When considering all of Earth's mammals (by biomass), only about 4% is wild.  Some 36% of that mass is us -- humans.  The other *60%* of that mass is the animals we grow to eat.  To put that into perspective, there are enough cows on the planet that, when lined up end to end, would stretch to the Moon and back four times!
+- Humans move so much sediment (sand, rock etc.) that we could fill the entire Panama Canal in just two days.
+- Human society produces enough material (concrete, plastic, etc.) each week to outweight the entire combined weight of humans.  If this mass were all concrete, it'd be enough to wrap around the globe *NINE* times.  And that's just one week's worth of production!
 
 
 
