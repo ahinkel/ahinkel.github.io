@@ -29,6 +29,13 @@ Similar to astronomy, when trying to understand the scale of the anthropocene, w
 
 ## Action in the Anthropocene:
 
+There's no doubt that there are a number of issues in the Anthropocene that need to be solved.  The good news is we've done it before.  At the end of the 20th century, science sounded the alarm on ozone depleting substances and policy action followed.  Today, the Ozone Hole is shrinking.
+
+In the spirit of planetary stewardship, I shared a number of ways to get involved:
+
+- h
+- j
+- l
 
 
 
@@ -36,6 +43,7 @@ Similar to astronomy, when trying to understand the scale of the anthropocene, w
 ## Other Thoughts on the Lecture:
 
 I am very interested in giving this talk (or a similar talk) again.  Please [reach out](/contact) if you are interested.
+
 
 
 ## Ways to Learn More:
