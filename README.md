@@ -84,10 +84,11 @@ This section is a work in progress.
 
 
 - [Anthropocene + Action Talk](/projects/AnthropoceneTalk)
-- [Data Visualizations for Inflation Reduction Act Funding and Schools](/projects/DIRAC).
-- [Data-driven fall risk project](/projects/DataDrivenFallRisk).  Details TBA.
-- [Parkinson's Disease Freezing of Gait Kaggle Competition](/projects/KaggleParkinsonsML).  Details TBA.
-- [A Two-point Correlation Function Study of the Milky Way](/projects/MilkyWay_2PCF).  Details TBA.
+- [Astronomy Public Lecture Series](/projects/APLS)
+- [Data Visualizations for Inflation Reduction Act Funding and Schools](/projects/DIRAC)
+- [Data-driven fall risk project](/projects/DataDrivenFallRisk)  Details TBA.
+- [Parkinson's Disease Freezing of Gait Kaggle Competition](/projects/KaggleParkinsonsML)  Details TBA.
+- [A Two-point Correlation Function Study of the Milky Way](/projects/MilkyWay_2PCF)  Details TBA.
 - Heat Island Measurements and Geospatial Data Project.  Details TBA.
 - Light Pollution Measurements and Mapping.  Details TBA.
 - Introductory Astronomy Kaggle Programming Tools.  Details TBA.
