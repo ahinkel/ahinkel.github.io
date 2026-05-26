@@ -4,8 +4,10 @@ I run an [Astronomy Public Lecture Series](https://www.thomasmore.edu/info-for/a
 
 Each academic year, there are six public lectures.  If you are interested in learning more, requesting use of the [TMU Observatory](https://www.thomasmore.edu/academics/explore-campus/thomas-more-observatory/), or joining the lecture series as a guest speaker, please [contact me](/contact).
 
+I include a record of my previous talks below.
 
-# Talks:
+
+## Talks:
 
 
 - (25 Apr 2026) – “The Anthropocene: Understanding Modern Day Earth”
