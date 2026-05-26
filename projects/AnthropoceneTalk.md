@@ -53,7 +53,7 @@ In the spirit of planetary stewardship, I shared a number of small, local, low-f
 
 I am very interested in giving this talk (or a similar talk) again.  Please [reach out](/contact) if you are interested.
 
-
+Additionally, many thanks to the University of Cincinnati's [Center for Public Engagement with Science (PEWS)](https://ucengagingscience.org/) for helping to get the word out about this talk.
 
 ## Ways to Learn More:
 
