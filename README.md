@@ -2,9 +2,9 @@
 
 Hi there -- my name is Austin Hinkel and this is my personal website. 
 
-I am an Assistant Professor at Thomas More University studying Galactic Archaeology and Galactic Structure.  I love teaching introductory physics and astronomy courses, and I am also a huge fan of using data science for social good.  If you're interested in collaborating on a project that helps to meet a United Nations Sustainable Development Goal, let me know!  I am always looking to make a down-to-Earth, positive impact to balance my Astrophysics research.  You can [contact me here.](/contact)
+I am an Assistant Professor of Physics at Thomas More University.  I love teaching introductory physics and astronomy courses, and I am also a huge fan of using data science for social good.  If you're interested in collaborating on a project that helps to meet a United Nations Sustainable Development Goal, let me know!  I am always looking to make a down-to-Earth, positive impact to balance my Astrophysics research.  You can [contact me here.](/contact)
 
-This website acts as an abbreviated CV, but I also plan to write about some of my work in astronomy, astrophysics, and data science.  
+This website acts as an abbreviated CV, but I also plan to write about some of my eclectic projects ranging from Galactic Archaeology to data visualizations of energy policy to various interdisciplinary collaborations.
 
 
 
