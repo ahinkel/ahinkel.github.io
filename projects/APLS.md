@@ -1,6 +1,8 @@
 # About:
 
-TBA
+I run an [Astronomy Public Lecture Series](https://www.thomasmore.edu/info-for/alumni/observatory-upcoming-events/) at Thomas More University, tied to our [Observatory](https://www.facebook.com/TMUObservatory/).  I strive to communicate science to broader audiences and to connect astronomy to the humanities and other, more down-to-Earth topics.
+
+Each academic year, there are six public lectures.  If you are interested in learning more, requesting use of the [TMU Observatory](https://www.thomasmore.edu/academics/explore-campus/thomas-more-observatory/), or joining the lecture series as a guest speaker, please [contact me](/contact).
 
 
 # Talks:
