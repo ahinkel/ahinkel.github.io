@@ -10,6 +10,9 @@ I include a record of my previous talks below.
 ## Talks:
 
 
+- (14 Nov 2026) - "Are We Alone?"
+- (17 Oct 2026) - "Exoplanets and How to Find Them"
+- (19 Sep 2026) - "The Mind-Bending (and Space-Bending) Theory of Relativity"
 - (25 Apr 2026) – “The Anthropocene: Understanding Modern Day Earth”
 - (21 Feb 2026) – “PLEASE Stop Letting Astronomers Name Things” 
 - (1 Nov 2025) – “Something Dark and Spooky is Out There…”
