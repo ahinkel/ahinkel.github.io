@@ -29,4 +29,4 @@ I include a record of my previous talks below.
 
 ## Resources:
 
-- [Fermi Paradox Simulation (built with Claude)](/FermiParadoxSim.html)
+- [Fermi Paradox Simulation (built with Claude)](/projects/FermiParadoxSim.html)
