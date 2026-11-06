@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Galactic Spread: A Fermi Paradox Simulation</title>
+<style>
+:root{--bg:#f6f5f1;--fg:#1c1c1a;--mut:#6b6a64;--card:#fff;--line:#d9d7cf;--acc:#0f8a7a;box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#15161a;--fg:#ecebe6;--mut:#9a9990;--card:#1e1f25;--line:#34353d;--acc:#3fd0bd}}
+:root[data-theme="dark"]{--bg:#15161a;--fg:#ecebe6;--mut:#9a9990;--card:#1e1f25;--line:#34353d;--acc:#3fd0bd}
+html{scroll-padding-top:env(safe-area-inset-top,0px)}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--fg);font:15px/1.5 system-ui,-apple-system,"Segoe UI",sans-serif}
+.wrap{max-width:980px;margin:0 auto;padding:20px 16px 32px}
+h1{font-size:20px;margin:0 0 4px}
+p.sub{margin:0 0 16px;color:var(--mut)}
+.grid{display:grid;grid-template-columns:minmax(0,1.3fr) minmax(0,1fr);gap:16px}
+@media(max-width:760px){.grid{grid-template-columns:1fr}}
+.card{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:14px}
+canvas{display:block;width:100%;border-radius:8px;background:#05060d}
+#gal{aspect-ratio:1/1}
+#chart{height:110px;margin-top:8px}
+.row{margin-bottom:12px}
+.row label{display:flex;justify-content:space-between;font-size:13px;color:var(--mut);margin-bottom:2px}
+.row label b{color:var(--fg);font-variant-numeric:tabular-nums}
+input[type=range]{width:100%;accent-color:var(--acc)}
+.btns{display:flex;flex-wrap:wrap;gap:8px;margin:4px 0 14px}
+button{font:inherit;font-size:14px;padding:7px 12px;border-radius:8px;border:1px solid var(--line);background:var(--bg);color:var(--fg);cursor:pointer}
+button.primary{background:var(--acc);color:#04201c;border-color:var(--acc);font-weight:600}
+.stats{display:grid;grid-template-columns:1fr 1fr;gap:8px;margin-bottom:8px}
+.stat{background:var(--bg);border-radius:8px;padding:8px 10px}
+.stat span{display:block;font-size:12px;color:var(--mut)}
+.stat b{font-size:18px;font-variant-numeric:tabular-nums}
+.legend{font-size:12px;color:var(--mut);display:flex;gap:12px;flex-wrap:wrap;margin-top:8px}
+.dot{display:inline-block;width:9px;height:9px;border-radius:50%;margin-right:4px}
+.note{font-size:13px;color:var(--mut);margin-top:10px}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>Galactic spread of civilization</h1>
+  <p class="sub">1,000 stars in a unit disc. One starts with life; it hops to neighbors within distance d.</p>
+  <div class="grid">
+    <div class="card">
+      <canvas id="gal"></canvas>
+      <div class="legend">
+        <span><i class="dot" style="background:#ffd36b"></i>just settled</span>
+        <span><i class="dot" style="background:#3fd0bd"></i>settled</span>
+        <span><i class="dot" style="background:#6d7080"></i>empty</span>
+        <span><i class="dot" style="background:#ff5c7a"></i>origin</span>
+      </div>
+    </div>
+    <div class="card">
+      <div class="btns">
+        <button class="primary" id="play">Play</button>
+        <button id="step">Step</button>
+        <button id="restart">Restart</button>
+        <button id="regen">New galaxy</button>
+      </div>
+      <div class="row"><label>Spread probability p (per unit time, per neighbor) <b id="pv"></b></label><input id="p" type="range" min="0.01" max="1" step="0.01" value="0.1"></div>
+      <div class="row"><label>Reach distance d <b id="dv"></b></label><input id="d" type="range" min="0.02" max="0.3" step="0.005" value="0.08"></div>
+      <div class="row"><label>Time step t <b id="tv"></b></label><input id="t" type="range" min="0.1" max="5" step="0.1" value="1"></div>
+      <div class="row"><label>Speed (steps per second) <b id="sv"></b></label><input id="s" type="range" min="1" max="30" step="1" value="8"></div>
+      <div class="stats">
+        <div class="stat"><span>Time</span><b id="time">0</b></div>
+        <div class="stat"><span>Settled</span><b id="cnt">1</b></div>
+        <div class="stat"><span>Fraction of galaxy</span><b id="frac">0.1%</b></div>
+        <div class="stat"><span>Reachable from origin</span><b id="reach">–</b></div>
+      </div>
+      <canvas id="chart"></canvas>
+      <div class="note">Per step, each neighbor is settled with probability 1 − (1 − p)^t. If reachable stars are far fewer than 1,000, a civilization with that reach never fills the galaxy.</div>
+    </div>
+  </div>
+</div>
+<script>
+(function(){
+var N=1000, pts=[], nbrs=[], col, age, seed, time=0, steps=0, hist=[], playing=false, acc=0, last=0;
+var $=function(i){return document.getElementById(i)};
+var gal=$('gal'), g=gal.getContext('2d'), ch=$('chart'), c=ch.getContext('2d');
+
+function genGalaxy(){
+  pts=[];
+  for(var i=0;i<N;i++){var r=Math.sqrt(Math.random()),a=Math.random()*2*Math.PI;pts.push([r*Math.cos(a),r*Math.sin(a)]);}
+  buildNbrs(); restart();
+}
+function buildNbrs(){
+  var d=parseFloat($('d').value), d2=d*d; nbrs=[];
+  for(var i=0;i<N;i++)nbrs.push([]);
+  for(var i=0;i<N;i++)for(var j=i+1;j<N;j++){
+    var dx=pts[i][0]-pts[j][0],dy=pts[i][1]-pts[j][1];
+    if(dx*dx+dy*dy<=d2){nbrs[i].push(j);nbrs[j].push(i);}
+  }
+}
+function reachable(){
+  var seen=new Uint8Array(N),q=[seed],n=1;seen[seed]=1;
+  while(q.length){var u=q.pop();for(var k=0;k<nbrs[u].length;k++){var v=nbrs[u][k];if(!seen[v]){seen[v]=1;n++;q.push(v);}}}
+  return n;
+}
+function restart(){
+  col=new Uint8Array(N); age=new Int32Array(N).fill(-1);
+  seed=Math.floor(Math.random()*N); col[seed]=1; age[seed]=0;
+  time=0; steps=0; hist=[[0,1]]; $('reach').textContent=reachable(); update(); draw();
+}
+function step(){
+  var t=parseFloat($('t').value), p=parseFloat($('p').value), q=1-Math.pow(1-p,t), add=[];
+  for(var i=0;i<N;i++){ if(!col[i])continue;
+    var nb=nbrs[i];
+    for(var k=0;k<nb.length;k++){var j=nb[k]; if(!col[j]&&Math.random()<q)add.push(j);}
+  }
+  steps++; time+=t;
+  for(var m=0;m<add.length;m++){var j=add[m]; if(!col[j]){col[j]=1;age[j]=steps;}}
+  hist.push([time,count()]); update(); draw();
+}
+function count(){var n=0;for(var i=0;i<N;i++)n+=col[i];return n;}
+function update(){
+  var n=count();
+  $('time').textContent=time.toFixed(1); $('cnt').textContent=n;
+  $('frac').textContent=(100*n/N).toFixed(1)+'%';
+  $('pv').textContent=parseFloat($('p').value).toFixed(2);
+  $('dv').textContent=parseFloat($('d').value).toFixed(3);
+  $('tv').textContent=parseFloat($('t').value).toFixed(1);
+  $('sv').textContent=$('s').value;
+}
+function fit(cv){var r=cv.getBoundingClientRect(),dpr=window.devicePixelRatio||1;cv.width=Math.round(r.width*dpr);cv.height=Math.round(r.height*dpr);return dpr;}
+function draw(){
+  fit(gal); var W=gal.width,H=gal.height,R=W/2*0.96;
+  g.clearRect(0,0,W,H);
+  g.strokeStyle='rgba(255,255,255,0.12)';g.lineWidth=1;g.beginPath();g.arc(W/2,H/2,R,0,7);g.stroke();
+  var pr=Math.max(1.5,W/300);
+  for(var i=0;i<N;i++){
+    var x=W/2+pts[i][0]*R,y=H/2+pts[i][1]*R,fresh=col[i]&&steps-age[i]<3;
+    g.fillStyle=!col[i]?'#6d7080':(fresh?'#ffd36b':'#3fd0bd');
+    g.beginPath();g.arc(x,y,col[i]?pr*1.3:pr,0,7);g.fill();
+  }
+  var sx=W/2+pts[seed][0]*R,sy=H/2+pts[seed][1]*R;
+  g.strokeStyle='#ff5c7a';g.lineWidth=2;g.beginPath();g.arc(sx,sy,pr*3,0,7);g.stroke();
+  drawChart();
+}
+function drawChart(){
+  var dpr=fit(ch),W=ch.width,H=ch.height,pad=6*dpr;
+  c.clearRect(0,0,W,H);
+  c.strokeStyle='rgba(255,255,255,0.15)';c.strokeRect(pad,pad,W-2*pad,H-2*pad);
+  c.fillStyle='rgba(255,255,255,0.55)';c.font=(11*dpr)+'px system-ui';
+  c.fillText('settled stars vs. time',pad+4*dpr,pad+13*dpr);
+  var tmax=Math.max(10,time);
+  c.strokeStyle='#3fd0bd';c.lineWidth=2*dpr;c.beginPath();
+  for(var i=0;i<hist.length;i++){
+    var x=pad+(hist[i][0]/tmax)*(W-2*pad),y=H-pad-(hist[i][1]/N)*(H-2*pad);
+    if(i)c.lineTo(x,y);else c.moveTo(x,y);
+  }
+  c.stroke();
+}
+function loop(ts){
+  if(playing){
+    acc+=(ts-last)/1000*parseFloat($('s').value);
+    var n=0; while(acc>=1&&n<10){step();acc-=1;n++;}
+    if(acc>1)acc=0;
+  }
+  last=ts; requestAnimationFrame(loop);
+}
+$('play').onclick=function(){playing=!playing;this.textContent=playing?'Pause':'Play';};
+$('step').onclick=step;
+$('restart').onclick=restart;
+$('regen').onclick=genGalaxy;
+$('d').oninput=function(){buildNbrs();$('reach').textContent=reachable();update();};
+['p','t','s'].forEach(function(id){$(id).oninput=update;});
+window.addEventListener('resize',draw);
+genGalaxy(); requestAnimationFrame(loop);
+})();
+</script>
+</body>
+</html>
