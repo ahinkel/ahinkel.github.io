@@ -25,3 +25,8 @@ I include a record of my previous talks below.
 - (21 Sep 2024) – “Starstuff: The Remarkable Story of Nearly Everything”
 - (18 Nov 2023) – “The Solar System’s Time Capsules:  Unlocking the Secrets of Asteroids and Comets” 
 
+
+
+## Resources:
+
+- [Fermi Paradox Simulation (built with Claude)](/FermiParadoxSim.html)
